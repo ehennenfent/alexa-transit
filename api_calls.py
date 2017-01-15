@@ -6,7 +6,7 @@ from stops import stops
 base_url = "https://developer.cumtd.com/api/v2.2/json/{method}?key=f87fa15a173b409aa117f7b5bd539c27"
 
 def get_stop_data(stop):
-    payload = {"stop_id": stops[stop]}
+    payload = {"stop_id": stops[stop.lower()]}
     r = requests.get(base_url.format(method="GetDeparturesByStop"), params=payload)
     return json.loads(r.text)
 
@@ -22,6 +22,3 @@ def GetStopDepartures(stop):
 def GetNamedStopDepartures(bus_num, stop):
     data = GetStopDepartures(stop)
     return [q for q in data if q['route'] == bus_num]
-
-
-print(GetNamedStopDepartures(130, "Transit Plaza"))
