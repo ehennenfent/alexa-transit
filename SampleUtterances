@@ -1,0 +1,7 @@
+GetNamedStopDepartures when does the {Route} get to {Stop}
+GetNamedStopDepartures when does the {Route} come to {Stop}
+GetNamedStopDepartures when does the {Route} leave {Stop}
+
+GetStopDepartures when does the bus come to {Stop}
+GetStopDepartures what buses are coming to {Stop}
+GetStopDepartures when will the bus get to {Stop}

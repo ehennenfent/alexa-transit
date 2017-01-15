@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "GetNamedStopDepartures",
+      "slots": [
+        {
+          "name": "Stop",
+          "type": "LIST_OF_STOPS"
+        },
+        {
+          "name": "Route",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetStopDepartures",
+      "slots": [
+        {
+          "name": "Stop",
+          "type": "LIST_OF_STOPS"
+        }
+      ]
+    }
+  ]
+}
