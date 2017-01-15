@@ -1,2497 +1,1349 @@
-Kirby & Westfield
-Philo & Michigan
-Duncan & Clark
-Trails & Philo
-Romine & Eureka
-Ironwood & Staley
-Fifth & Columbia
-Kirby & Glenshire
-Windsor & Monterey
-Ginger Creek
-Mattis & Green
-Perkins & Carroll
-Orchard Downs South Shelter
-Stone Creek & Stillwater Landing
-Clayton & Pomona
-Fox at Remax
-Main & Lynn
-Staley & Clubhouse
-Duncan & Blair
-Scottswood & Calif. Ct.
-Main & Cottage Grove
-Florida & Kinch
-Park & McCullough
-Prospect & Park Ln.
-Vine & Fairlawn
-Vine & Green
-Michigan & Smith
-Vine & Michigan
-Lincoln & St. Marys
-Kirby & Greencroft
-Mattis & Broadmoor
-Lyndhurst & Old Maple Lane
-Race & Montclair
-Campbell & Roland
-Philo & Mumford
-Windsor & Melrose
-I.E.T.C.
-State & Birch
-Windsor Rd.
-Main & Ennis
-Winchester & Blackthorn
-John & Draper
-Green & Race
-John & Russell
-Bentbrook & Golf Creek
-Illini Union
-Kerr & Division
-Anthony & Mattis
-ARC
-Neil & Eureka
-Urbana Meijer
-Cherry Hills & Lakeview
-Anthony at Ameren
-Randolph & Vine
-John & Garfield
-Vine & Shurts
-Country Squire & Kinch
-Cherry Hills & Coppertree
-Randolph & Springfield
-Main & Smith
-Cobblefield & Glenn Brooke
-Springfield & Fieldstone
-McKinley & Eureka
-ARC
-McHenry & Lynn St. #2
-Florida & Wiley
-Clayton & Irvine
-Boardwalk & Meijer Dr.
-Florida & Vine
-Prospect & Francis
-Prospect & Lincolnshire
-Anderson & Colorado
-Brownfield & Sharlyn
-Florida & Race
-John & Frank
-Clayton & Heritage
-Clayton & Higgins
-Anthony & Walters
-John & Willis
-Mullikin & Ironwood
-Campbell & Curt
-Fox & Knollwood
-Clayton & High View
-Fox & State
-Prospect & Broadmoor
-Lierman & Bartell
-Galen & Salisbury
-Silver & Fletcher
-University & Elm
-Brownfield & Mary Lou
-Westfield & Lawndale
-Harris & Sherwood
-John & Westlawn
-Prospect & Ayrshire Cir.
-Urbana Middle School
-Green & Urbana
-Bradley & Duncan
-John & Prospect
-John & Chicago
-Main & Fremont
-Bonnie Blair & Gold Medal
-Florida & Orchard
-Springfield & New
-Florida & Grove
-Fourth between Kirby & St Marys
-Bradley & McKinley
-4th & Chalmers
-Lakeshore & Maynard
-Duncan & Blair
-Crestwood & Edward Hoffman
-Walnut & Washington
-Mattis & Chevy Chase
-Kirby & Cobblefield
-Mattis & Gentry Square South
-Switchgrass & Trailway
-Columbia & Betsy Ross
-Goodwin at Ceramics Building
-County Satellite Jail
-Crestwood & Ladue
-Clayton & Crestview
-Urbana Meijer
-Armory & Wright
-Clayton & Clearwater
-Crescent & Sangamon
-Green & Goodwin
-Winfield Village Lot G
-First & Lake Park South
-Market Place Southeast
-State & Springfield
-Brownfield & Clifton
-MTD Garage
-Bentbrook & Bentbrook Ct
-Hazelwood & Oak
-Williamsburg & Summerlin
-Country Fair Dr. at Fluid Events
-Jefferson Middle School
-Broadmoor & Crescent
-Race & Sherwin
-Bonnie Blair & Amy
-Wildflower & Chickory
-Eastern & Kerr
-Bradley
-Goodwin & Gregory
-Baytowne & Boardwalk
-Springfield & James
-Paula & Jeanne
-Church & Neil
-Paula & Powers
-First & Lake Park North
-Vine & Water
-University & Lynn
-Orchard Downs North Shelter
-Bradley & Willis
-Prospect & Dennison
-University & Harvey
-Parkland Ct. & Bradley
-Springfield & Royal Ct.
-State & Hessel
-Kirby & Grandview West
-Windsor & Prospect
-Springer & Country Fair Dr.
-Washington & Fourth
-First & St. Mary's
-Neil & Vine
-Clayton & Creve Coeur
-Washington & Lierman
-Winchester & Aspen
-Vine & Elm
-Colorado at Steer Place
-Mullikin & Curtis Meadow
-Kirby & Cobblefield
-Ambucs Park
-Dodson & Illinois
-Washington & Phillips
-Dorner & Peabody
-Bradley & Clayton
-Harris & Beardsley
-Duncan & Clayton
-Bonnie Blair & Valerie
-Vine & McHenry
-Broadway & University
-Pennsylvania & Fourth
-Florida & Smith
-Sherwin & Yankee Ridge
-Mattis & Windsor
-Randolph & University
-Edison Middle School
-Anthony & Dale
-Duncan & Lager
-Kirby & Park Haven
-Church & Prospect
-Dodson & Washington
-Illinois St. Residence Hall
-Kirby & Scottsdale
-Crossgate & Charwick
-Green & Busey
-Prospect & Green
-Lyndhurst & Lyndhurst Village Ct.
-Liberty & Columbia
-Tatman Ct. & Highcross
-Staley & Kirby
-White & Wright
-Lyndhurst & Arbour
-Independence & Betsy Ross
-Coronado & Dover
-John & Pine
-Pomona & Bradley
-State & Hessel
-Green & Grove
-White & Fourth
-Washington & Ash
-Broadway & University
-Urbana High School
-Crestwood & Florence
-Bluegrass & Boulder Ridge
-Brownfield & Johnson
-First & Stadium
-Windsor Rd.
-Broadmoor & Robert
-Cobblefield & Glenn Brooke
-Kirby & Mattis
-Winchester & Brookhaven
-Slayback & Smith
-Florida & Smith
-Race & Whitehall Ct.
-McKinley & Harvard
-Cobblefield & Inverness
-Harris & Bradley
-Country Fair Dr. & Camp
-Anderson & Harding
-Kerr & Berkley
-Green & Webber
-Florida & Lincoln
-Mayfair & Theodore
-Anderson & Eliot
-Park Lane & Bedford
-Kerr & Cunningham
-Pebblebrook & Rockdale
-Parkland Ct. & Bradley
-Sixth & Gregory
-Green & Wright
-Fairview & Lincoln
-Broadmoor & Georgetown
-Bradley & Clayton
-Christie Clinic
-Brownfield & Clifton
-Springfield & Gregory St.
-Prospect & Broadmoor
-Queensway & Roland
-Boulder Ridge & Farley
-Aldi
-Washington & Broadway
-Kerr & Geraldine
-Paula & Larkspur
-Vine & Green
-Smith & Rainbowview
-Park Lane & Stanford
-Florida & Pleasant
-Bluegrass & Summersage
-Mayfair & Broadmoor
-Colorado & Larch
-Springfield & Kenwood
-John & Duncan
-Mattis & Alton
-Hancock & Hamilton
-Neil & Hill
-Hunter & Lanore
-Kirby & Arrow
-Staley & Inverness
-Harris & Beardsley
-Kirby & Mayfair
-Penn & Kinch
-George Huff & Race
-Windsor West Apts
-Harris & Bradley
-Kerr & Division
-Gregory at Mumford Hall
-Anthony at Wood Spring Suites
-Cunningham & Perkins
-Church & Mattis
-John & Draper
-Perkins & Cooks Ln.
-Country Fair West Entrance
-Lincoln & College Ct.
-First & Lake Park North
-Windsor & Bel Air
-Florida & Carle
-State & Beardsley
-Brownfield & Perkins
-Main & Webber
-Maynard & Coventry
-Springfield & McKinley
-Lyndhurst & Old Maple Lane
-Vance & Napleton
-Green & Goodwin
-Pomona & Heritage
-Neil & Twins
-Vine & Lynn
-Market & Roper
-Bentbrook & Pinecrest
-Cunningham & Perkins
-Neil & Columbia
-Devonshire & Devonshire Ct.
-Crescent & Ola
-Broadmoor & Robert
-Kirby & Neil
-Florida & Smith
-Pennsylvania & Sixth
-Market Place North Entrance
-Fourth & Peabody
-Orchard Downs South Shelter
-McHenry & Philo
-State & Columbia
-Butzow & Lierman
-Philo & Windsor
-Bradley & Prospect
-Sixth & Armory
-Cottage Grove & Brighton
-Neil & Burwash
-Kerr & Highlands
-Race & Whitehall Ct.
-Roland & Comanche
-Springfield & Edwin
-Bonnie Blair & Amy
-Perkins & Raintree
-Market Place North Entrance
-Lincoln & Kettering Park
-Windsor & Duncan
-Country Fair Dr. & Camp
-Main & Dewey
-Neil & Springfield
-Race & Windsor
-Kirby & Rose
-Fairview & Goodwin
-Halifax & Maynard
-Carroll & Kerr
-Trails & Chatham
-Green & Second
-Florida & Philo
-McHenry & Lynn - East
-Anthony & Walters
-Lawndale & Centennial
-Perkins & Eastern
-Windsor & Valleybrook
-Galen & Windsor
-Pebblebrook & Bluegrass
-Brownfield & Airport
-Lierman & Hunter
-Columbia & Betsy Ross
-Green & Birch
-Main & Grove
-Vine & Mumford
-Florida & Adams
-Lyndhurst & Park Ln
-Windsor & Duncan
-Main & University
-Anthony & Mattis
-Coventry & Maynard
-Broadway & Crystal Lake
-Fairview & Linview
-Sherwin & Pond Ridge
-Race & Michigan
-Clayton & Rossmoor
-Anthony & Dusk
-Woodfield & Curtis
-Mattis & Ivy Ct. South
-University & Vine
-Fedex on Killarney
-John & Russell
-Perkins & Carroll
-Prospect & Hill
-Florida & Anderson
-John & Willis
-Lakeshore & Maynard
-Mattis & Chevy Chase
-Broadway & Country Club
-Fieldstone at Horizon Hobby
-Green & Second
-University & McCullough
-Florida & Bermuda
-State & Birch
-Bradley & State
-University & Hickory
-Mattis & Healey
-Florida & Anderson
-Kirby & Rosewood
-Springhill & Glenhill
-First & Gerty
-Airport & Landis Farm
-Neil & Hessel
-McHenry & Anderson
-Vermont & Kinch
-University & Ash
-Boardwalk & Meijer Dr.
-Fairlawn & Patton
-Dodson East & Slayback
-Broadmoor & Bellamy
-John & Lynn
-Round Barn & Country Fair Dr.
-Save A Lot
-Lincoln & Eads
-University & New
-Bradley & Prospect
-Clayton & Pomona
-Mkt Plc North Ent. & Market
-McHenry & Anderson
-Ambucs Park
-John & Victor
-Country Fair Dr. & Cone
-Church & Elm
-Goodwin & Nevada
-Cobblefield & Englewood
-Windsor & Village Green
-Perkins & Highcross
-Lincoln & Oregon
-Springfield & Prospect
-Independent Living
-Gregory at Ikenberry Commons
-Pomona & Santa Ana
-Fourth & Peabody
-Mkt Plc North Ent. & Market
-Broadmoor & Lakeside
-Myra Ridge & Ridge Park
-Eastern & Kerr
-Windsor & Fields South
-Cottage Grove & Crestwood
-Park & Mathews
-Springfield & Mattis
-Jefferson Middle School
-Cunningham & Oakland
-Neil & Town Center Apt.
-Anderson & Michigan
-Main & Lierman
-Mattis & Windsor
-Vine & Washington
-Gregory at Library
-Walnut & University
-Washington & Lanore
-Valerie & Meaghan
-Timbergate & Cherry Hills
-Williamsburg & Winston
-Maplepark & Lawndale
-Romine & Ellis
-Prospect & Floral Park
-Smith & U.S. 150
-Washington School
-Cherry Hills & Crestridge
-Randolph & Columbia
-Round Barn Manor
-Park & Central
-Washington School
-Neil & Center Dr.
-Vine & Nevada
-Prospect & Lincolnshire
-Sussex & Waterford
-Mullikin & Crossgate
-Gregory at Mumford Hall
-Main & Webber
-Westgate Apts.
-Mattis & Sheridan
-John & Ridgeway
-Green & Johnson
-Penn & Broadway
-Neil & Twins
-Bradley & Carver
-Main & Brady
-Lyndhurst & Burwash
-Country Club & Golfview
-Penn & Orchard
-Windsor & Morrissey Park
-Town Center & Moreland
-Florida & James Cherry
-Springfield & Mattis
-Bradley & Prospect
-George Huff & Race
-White & Second
-Springfield at Phillips Rec. Ctr
-Springfield & New
-Fourth & Peabody
-Race & Delaware
-Neil & Center
-Vine & Pell Cir.
-Philo & Silver
-Illinois Terminal
-Green & Prospect
-Race & McHenry
-State & Clark
-Prospect & Columbia
-Market & Roper
-Vine & Burkwood Ct.
-Main & Grove
-Lincolnshire & Foothill
-Main at ILEAS
-Kirby & Duncan
-Farhills & Staley
-Neil & Springfield
-Lincoln & Church
-Kirby & State
-State & Vine
-Guardian Dr. & Butzow
-Goodwin & Nevada
-Sussex & Southfield
-Bradley & Champaign
-Bonnie Blair & Sharon
-Fourth & St. Mary's
-Sussex & Waterford
-Fairview & Lincoln
-Goodwin & Park
-Bradley & Hagan
-Mattis & Broadmoor
-Windsor & Windward
-Cobblefield & Balmoral
-Windsor & Vine
-Race & Mumford
-Clayton & Pomona
-Timbergate & Cherry Hills
-Paula & Jeanne
-Curtis Meadow & Brighton
-Silver & Fletcher
-Brownfield & Airport
-Fairlawn
-MacArthur & California
-Bradley & State
-Florida & Philo
-Crescent & Greendale
-Fairview & Linview
-Kirby & Bellepark
-Cunningham & Oakland
-University & Second
-Country Fair Dr. & Cone
-Scottswood & Oregon
-Anthony & Dawn
-Goodwin & Church
-Cottage Grove & Philo
-John & Highland
-Prospect & Sherwood Tr.
-Williamsburg & Winston
-Harris & Louisiana
-Windsor & Fields South
-Bradley at WLRW
-Church & Busey
-Springfield & Kenwood
-Dover & Balboa
-Lincoln Square Courthouse
-Country Bend & Springhill
-Main & Poplar
-Lyndhurst & Magnolia
-Race & Indiana
-Scottswood & Illinois
-Plant Sciences Lab
-Church & State
-University & Victor
-Penn & Dorner
-St. Mary's & Oak
-Neil & Columbia
-Bloomington & Prospect
-William & Kenwood
-First & Gregory
-State & Cedar
-Windsor & Mullikin
-Goodwin & Gregory
-Fieldstone at Horizon Hobby
-Illinois Terminal
-Cherry Hills & Lakeview
-Campus Circle
-Neil & Interstate
-Sunnycrest Mall
-Duncan & Daniel
-Mattis & Sumac
-Lincoln & Sunset
-Mayfair & Lincolnshire
-Broadmoor & Crescent
-William & Maplepark
-Kirby & Kenwood
-LAR
-Race & Nevada
-Staley & Kearns
-Bloomington & Prospect
-Cherry Hills & Applewood
-Race & Vermont
-Cherry Hills & Crestridge
-Church & Denton
-Harris & Bloomington
-Cherry Hills & Pine Valley
-Perkins & Eastern
-Race & Michigan
-University & Prospect
-Washington & Scottswood
-Race & Illinois
-Vine & Montclair
-Mattis & Interstate
-Broadway & Oakland
-Prospect & Vine
-Main & Fremont
-Springfield & Duncan
-John & Chicago
-John & Mattis
-Ashton Woods
-Florida & Broadway
-Devonshire & Mayfair
-Windsor & Lakewood
-Westfield & Sangamon
-Harris & Bloomington
-Mullikin & Remington Way
-Mercury at FedEx
-Boardwalk & Interstate
-Country Squire & Kinch
-Duncan & Southwood
-Neil & North
-Napleton & Anthony
-Bluegrass & Summersage
-Duncan & Crossing Ct.
-Alpine & Bradley
-State & Avondale
-Interstate & Waterview Way
-Prospect & Vine
-Neil & Eureka
-Broadway & Park
-Duncan & Clayton
-Park & Central
-Slayback & Ira
-Cunningham & Park
-Willow & Beason
-Bradley & Carver
-Lawndale & Centennial
-Bradley & Williamsburg
-Florida & Orchard
-University & Sycamore
-Springfield & Country Fair Dr.
-Harris & Maple
-Church & Elm
-Carroll & Kerr
-Roland & Dobbins
-Myra Ridge & Trails
-Bradley & Willis
-Church & Lynn
-Galen & Theodore
-Wright & Springfield
-Philo & Pennsylvania
-Vine & California
-Race & Holmes
-Brittany Trail & Southford Trace W
-BRADWMBG:5
-Main & Poplar
-Bradley & Neil
-Mullikin & Stonebridge
-Brittany Trail & Southford
-Staley & Kearns
-Green & Lynn
-Willow & Baker
-Springfield & Prairie
-Hancock & Liberty
-Prospect & Devonshire
-Kirby & Arrow
-Newton & Nobel
-Galen & Sussex
-Paula & Honeysuckle
-Bonnie Blair & Sharon
-Washington & Smith
-Winchester & Broadmoor
-Cottage Grove & Mitchem
-Windsor & Donnybrook
-Neil & Anthony
-Randolph & Bradley
-Cottage Grove & Washington
-DART
-Mullikin & Trostshire
-Prospect & Kirby
-Kirby & Carolyn
-Sussex & Windward
-McKinley & Beardsley
-Springfield & Gregory St.
-Crestwood & Katie Lynn
-Green & Gregory
-Farley & West Ridge
-Christie Clinic
-Anthony at Wood Spring Suites
-Stadium & Oak
-Mullikin & Doverbrook
-Lincoln & Wascher
-Washington & Kinch
-Bentbrook & Staley
-Race & Main
-Lincoln & Delaware
-University & Randolph
-John & Elm
-Penn & Goodwin
-Market Place Southeast
-Green & Fourth
-Susan Stone & Plains Ct.
-Mayfair & Broadmoor
-Parkland College
-Main & Ennis
-Town Center at Target
-St. Mathews
-Broadway & Park
-Fourth & Peabody
-Randolph & Avondale
-Market & Marketview
-Nevada & Gregory Pl.
-Kirby & State
-Washington & Timothy Tr.
-Paula & Honeysuckle
-Galen & Newbury
-Lakeview & Worthington
-Lynn & Park
-Smith & Carrie
-Bradley & Redwood
-Crescent & John
-Champaign House
-Lincoln & Church
-Randolph & Columbia
-St. Mary's & Neil
-Kettering & Linview
-Main & Lierman
-Bloomington & McKinley
-University & Second
-Main & Maple
-Harris & Alabama
-Wright & Church
-John & Frank
-Mattis & Anita
-Cunningham & Perkins
-Prospect & Eureka
-Wildflower & Trailway
-Springfield & Prairie
-Broadway & Crystal Lake
-Cottage Grove & Penn
-McKinley & Maple
-Duncan & Crestridge
-Clayton & Heritage
-Clayton & Compton
-Church & Willis
-Williamsburg & Summit Ridge
-Windsor & Melrose
-Broadmoor & Lincoln Pl.
-State & Columbia
-Springfield & Westlawn
-Anthony at Rural King
-Mattis & Sangamon
-Curtis & Wynstone
-Carroll & Kerr
-First & Armory
-Hunter & Country Squire
-Marketview at Sams
-Winchester & Blackthorn
-Bradley & Champaign
-Crescent & John
-Switchgrass & Wildflower
-Curtis Meadow & Staley
-Round Barn Manor
-Queensway & Roland
-Kirby & Lincoln Rd.
-Sixth & Peabody
-Orchard Downs Mid-North
-Country Bend & Summerhill
-Highcross & Kyle
-Prospect & Interstate
-Penn & Vine
-Bradley & Country Fair Dr.
-Cottage Grove & Washington
-Marketview at Marketview Center
-Harris & Bradley
-Windsor & Jordan
-Lincoln Square Garage South
-Cobblefield & Bridge Point Dr
-Neil & Marketview
-Main & Urbana
-Windsor & Staley
-Stadium & Oak
-First & St. Mary's
-Airport & Skyline
-Harris & Harvard
-Willow & Kenyon
-Coler & Church
-Walnut & Logan
-Green & Busey
-Windsor & Myra Ridge
-Windsor & Susan Stone
-Crescent & Ola
-University & Lake
-Fifth & Grove
-Washington & Lierman
-Windsor & Bel Air
-Mattis & Southwood
-Main & Glover
-Lincoln & Hill
-Vine & Fairlawn
-Coler & Fairview
-Bloomington at Pioneer Plaza
-Highcross & Nordland
-Bloomington & Louisiana
-Park & Wright
-Vine & George Huff
-Fox & Devonshire
-Green & Orchard
-White & First
-Anderson & Sunnycrest
-John & Ridgeway
-Stone Creek & Venturi
-Cobblefield & Inverness
-Highcross & Apostalic Life Church
-Springfield & Mattis
-First at iHotel
-Meijer Dr. at Meijer
-University & Elm
-Windsor & Winchester
-State & Trade Center Dr.
-Mattis North Apartments
-Sixth & Peabody
-Clayton & Covington
-Washington & Country Squire
-University & Fair
-George Huff & Race
-Green & Randolph
-Vine & Scovill
-Galen & Windsor
-Crescent & Lawndale
-Crestwood & Florence
-Wright & Healey
-Mattis & Sangamon
-Neil & Marketview
-Crescent & Southwood
-Lyndhurst & Bedford
-Mkt Plc North Ent. & Market
-Washington & Lierman
-Fifth & Vine
-Harris & Bloomington
-Prospect & Harvard
-John & Elm
-Mattis & Harbor Point
-Neil & Anthony
-Broadmoor & Bellamy
-Race & Washington #1
-Randolph & William
-Barnes & Noble Books
-Michigan & Kinch
-Clayton & Higgins
-Green & Race
-Florida & Cottage Grove
-Lincoln & Killarney
-Broadway & Country Club
-John & Duncan
-Kerr & Cunningham
-Wright & Beslin
-Ashton Woods
-Coventry & Maynard
-Trails & Fawn Hill
-Pennsylvania Ct.
-Interstate & Research
-Sussex & Southfield
-Town Center & Menards
-Coronado & Ventura
-Burwash & Woodfield
-First at iHotel
-University & Fourth
-Crescent & Round Barn
-Galen & Devonshire
-Susan Stone & Galena
-Market & Bradley
-Prospect & Devonshire
-William & Dogwood
-Springfield & Lynn
-Gregory & Dorner
-Lawndale & Bellepark
-Windsor & Carlisle
-Bloomington & Sunset
-Washington & Fourth
-Prospect & Vine
-John & Edwin
-Airport & Cunningham
-Campbell & Queensway
-Broadmoor & Lakeside
-Prospect & Park Ln.
-Myra Ridge & Silver Hill
-Fourth & Pennsylvania
-Lincoln & Illinois
-William & Oakcrest
-First & Daniel
-Windsor & Donnybrook
-MacArthur & High
-John & Fair
-Goodwin at Materials Research
-Market & Wilbur
-Atrium Apts
-Vine & Colorado
-Fairlawn & Grant Pl.
-Fox at SURS
-William & Maplepark
-Roland & Aztec
-Anthony at Rural King
-Galen & Salisbury
-Green & Anderson
-State & Eureka
-Kinch & Rainbow View
-Kirby & Western
-Springfield & James
-Silver & Vawter
-Tatman Ct. & Highcross
-Kerr & Cunningham
-Anderson & Colorado
-Country Brook
-University & Central
-Broadway & Franklin
-White & Wright
-Green & Fourth
-Urbana Walmart
-Washington & Kinch
-Queensway
-Main & Smith
-Market & Bradley
-Philo & Fairlawn
-Romine & Beardsley
-LAR
-Paula & Mattis
-Anthony & Campbell
-Springfield & Willis
-Second & Park
-Town & Country Apts.
-John & Kenwood
-Prospect & Kirby
-Springfield & Birch
-Bradley & Duncan
-Meijer Drive & Prospect
-Fox & Devonshire
-First & St. Mary's
-Fifth & Beardsley
-Windward & Waterford
-Wright & Church
-Kirby & State
-Galen & Ross
-Holiday Inn
-Staley & Inverness
-Woodfield & Curtis
-Lincoln & Illinois
-McHenry & Cottage Grove
-Florida at Thomas Paine
-First & Hazelwood
-Ginger Creek
-Vine & Willis
-Wright & Chalmers
-Neil & Stadium
-Vine & Prairie
-Staley & Copper Ridge
-Church & State
-Mullikin & Villa
-Elm & Vine
-Town Center & Neil
-Prospect & Tremont
-Anderson & Michigan
-MacArthur & Illinois
-Bloomington & Prospect
-Paula & Joanne
-Bradley & Williamsburg
-Fourth & Pennsylvania
-Pennsylvania at PAR
-Pomona & Ed Hoffman
-State & William
-Farber at CERL
-William & Centennial
-Park & Wright
-Anthony & Kankakee
-Pomona & Bradley
-Romine & Tremont
-Lyndhurst & Evergreen Circle
-University & Cottage Grove
-Galen & Sussex
-Williamsburg & Mattis
-Kirby & Duncan
-Crescent & Southwood
-John & Kenwood
-Springfield & Kenwood
-Clayton & Compton
-Sussex & Oakmont
-First & St. Mary's
-Mattis & Meadow
-Fourth & Peabody
-McKinley & Tremont
-Race & Illinois
-Lierman & Hunter
-Florida & Lincoln
-Crescent & Parkdale
-Kirby & Rose
-Broadmoor & David
-Kenyon & Cracker Barrel
-Clayton & Clearwater
-Springfield & Fair
-Anderson & Brighton
-Anthony & North Shore
-Westfield & William
-Lyndhurst & Park Ln
-Slayback & Dodson West
-Crossgate & Charwick
-Bloomington & McKinley
-Clayton & Irvine
-U of I Credit Union
-Springfield & Duncan
-Winchester & Cypress
-Fourth & Armory
-Park Lane & Stanford
-Anthony & Dusk
-Anthony & Columbia
-Penn & Anderson
-Kirby & Grandview
-Galen & Devonshire
-Kerr & Berkley
-Mattis & Devonshire
-Bloomington & Hagan
-University & McKinley
-Inverness & Prestwick Pt
-Springer & Country Fair Dr.
-State & Stanage
-Church & Denton
-Neil & Beardsley
-DART
-Penn & Carle
-Mattis at Post Office
-First & Gregory
-First & Gerty
-Prospect & Francis
-Race & Washington #1
-Mattis & William
-Paula & Kirk Ln.
-Parkview
-Windsor & Myra Ridge
-Kirby & Oak
-Florida & Hillcrest
-Windsor & Lakewood
-Broadway & Chapin
-Race & Windsor
-Bradley & State
-Windsor & Myra Ridge
-Lyndhurst & Magnolia
-Church & Mattis
-Market Place West
-Windsor & Village Green
-Colbert Park
-Duncan & Meadows West
-University & Hickory
-Springfield & Birch
-University & Fourth
-Kirby & Duncan
-Duncan & Crestridge
-First & Gerty
-Vine & Burkwood Ct.
-John & Foley
-Galen & Harrington
-Mattis & Branch
-Chemical & Life Sciences
-Hessel & Randolph
-Main & Urbana
-Bentbrook & Staley
-Neil & Edgebrook
-Market Place & Convenience Dr.
-Country Fair
-Winchester & Glenoak
-Illinois & Glenn
-Fox & Devonshire
-Mattis & Devonshire
-Mullikin & Copper Ridge
-Franklin Middle School
-Neil & Town Center Apt.
-Race & Iowa
-Wright & Hill
-McKinley & Eureka
-Silver & Cottage Grove
-State & University
-Florida & Philo
-Bentbrook & Staley
-Restoration Urban Ministries
-Coler & Fairview
-Galen & Wilshire
-Alpine & Bradley
-Galen & Plymouth
-Broadway & Park
-Main & Vine
-Windsor & Duncan
-Church & Orchard
-Brownfield & Agnes
-Bradley & Country Fair Dr.
-Crescent & Lawndale
-John & McKinley
-Pennsylvania & Race
-University & Second
-Country Squire Ct.
-John & Westlawn
-Susan Stone & Summit
-Kirby & Cambridge
-Church & James
-Romine & Beardsley
-University & Goodwin
-University & Prospect
-Illinois & Broadway
-Smith & U.S. 150
-Church & New
-5th & Chalmers
-Broadmoor & McDonald
-Springfield & Mattis
-William & Goldenview
-Moraine & Lake Shore
-Roland & Walters
-Winchester & Belmore
-Interstate & Farber
-State & Maple
-Penn & Carle
-Prospect & Dennison
-University & Russell
-Florida & Vine
-Washington & Second
-Sunnycrest
-Kirby & Crescent
-Brownfield & Prairieview
-McHenry & Lynn St. 1
-Philo & Harding
-Devonshire & Peach
-U.S. 150 & University
-Harris & Maple
-Market & Kenyon
-John & Mattis
-Cunningham & Crystal Lake
-Crestwood & Edward Hoffman
-Brittany Trail & Mullikin
-John & McKinley
-Burwash & Woodfield
-Randolph & Charles
-Toalson & Interstate
-Perkins & Raintree
-Farhills & Staley
-Race & California
-Green & Birch
-Round Barn & Country Fair Dr.
-Sussex & Oakmont
-Green & Neil
-Anderson & Eliot
-Brady & High
-Church & Prairie
-Save A Lot
-Philo & Mumford
-Williamsburg & Thornton
-McKinley & Maple
-Duncan & Lager
-Windsor & Lynn
-Galen & Windsor
-Mullikin & Curtis Meadow
-Goodwin & Gregory
-Marketview at Sams
-Curtis Meadow & Foxborough
-Neil & Kenyon
-Goodwin & Park
-Main & Broadway
-Savoy Walmart
-Green & Sixth
-Big Lots
-Queensway
-Park & Wright
-John & Western
-McHenry & Vawter
-Washington & Third
-Springfield & Russell
-Race & Indiana
-White & Fourth
-Coronado & Dover
-Williamsburg & Thornton
-Curtis Meadow & Foxborough
-Fox & Windsor
-Prospect & Devonshire
-Mullikin & Copper Ridge
-Pomona & Heritage
-Winchester & Southmoor
-Stone Creek & Bohn
-Bradley & Clayton
-Lincoln & Killarney
-Maplepark & William
-Galen & Windsor
-Vine & Harris
-Heritage Park
-Windsor & Brookshire
-Neil & Walingford
-Bardeen & Toalson
-Philo & Laurel
-Vine & McHenry
-Windward & Waterford
-Plastipak
-Penn & Wiley
-D.S.C. on Clark
-Lincoln & Park
-Randolph & Washington
-Valerie & Alpine
-Fourth & Kirby
-Paula & McKinley
-Vine & George Huff
-Cherry Hills & Curtis
-Vine & Illinois
-Race at Stone Creek Church
-Campbell & Comanche
-Brittany Trail & Kensington Knoll
-State & Hill
-Lincoln & Anthony
-Lincoln & Florida
-Market Place and Wilbur
-Country Fair Dr. & Park
-Kerr & Highlands
-Trails & Baronry
-Broadway & Oakland
-Campbell & Curt
-Crestridge & Lakewood
-Interstate & Research
-Paula & Kirk Ln.
-Pinecrest & Porterfield
-Randolph & Springfield
-Mercury & Gemini
-Liberty & Betsy Ross
-Winchester & Southmoor
-Bloomington & Mittendorf
-Trails & Philo
-Town Center & Moreland
-Vine & Shurts
-Bradley & Country Fair Dr.
-County Satellite Jail
-Fifth & Eureka
-Springfield & Russell
-Curtis & First
-Springfield at Country Fair
-Bradley & Crispus
-McHenry & Cottage Grove
-Sherwin & Persimmon
-Main & Chestnut
-Main & Maple
-Race & California
-Broadway & Kerr
-Bloomington & Hagan
-Windsor & Staley
-Newton & Newmark
-Vine & Pell Cir.
-Mayfair & Old Farm
-Bonnie Blair & Nancy Beth
-Prospect & Galen
-Cobblefield & Aberdeen
-Bradley & Walnut
-Vine & Brookens
-Springfield & Lynn
-Kirby & Oak
-Staley & Amherst
-Springfield & McKinley
-Kenyon at Eastland Suites
-Paula & Joanne
-Clayton & Bellerieve
-Anderson & Evergreen
-Clayton & Creve Coeur
-John & Highland
-Bloomington & Highland
-Race & Delaware
-Prospect & Park Ln.
-Vine & Mumford
-Green & Lynn
-University & Cottage Grove
-Paula & Mattis
-Windsor & Winchester
-Galen & Wilshire
-Crescent & Greendale
-Convenience Dr. & Market
-Anthony at Napleton's
-Springfield & Chicago
-First & St. Mary's
-Anderson & Fairlawn
-Cottage Grove & California
-Florida & Busey
-Philo & Briarcliff
-Windward & Autumnwood
-Mercury & Apollo
-University & Sycamore
-Vine & Water
-Boulder Ridge & Peppermill
-Curtis Rd. at Winfield Village
-Prospect & Interstate
-Big Lots
-Bradley & James
-Windsor & Crossing Ct.
-Duncan & Daniel
-Main & Lierman
-Vine & Scovill
-Pennsylvania & Race
-Lincoln & Killarney
-Campbell & Comanche
-Bloomington & Louisiana
-Fifth & Grove
-Kirby & State
-Randolph & Tremont
-University & Central
-McKinley & Tremont
-Kirby & Duncan
-Bentbrook & Pinecrest
-Kirby & Carolyn
-Paula & Cynthia
-Orchard Downs Mid-South
-Development Services Center
-Race & Sherwin
-University & Prairie
-Airport & Skyline
-Washington & MacArthur
-Green & Prairie
-Vine & Harris
-Scottswood & Illinois
-Duncan & Prairie Meadow
-Clayton & Crestview
-Airport & Donald
-Devonshire & Peach
-Neil & Interstate
-Michigan & Smith
-Florida & Linden
-Philo & Windsor
-Broadmoor & Lynwood
-Windsor & Vine
-Anthony & Campbell
-Fairview & Gregory
-Windward & Autumnwood
-Florida & Race
-Green & Neil
-Kirby & Carriage Way
-Social Security
-Pinecrest & Staley
-Windsor & Lynn
-Bentbrook & Golf Creek
-Kirby & Kenwood
-Country Fair West Entrance
-Prospect & Kent
-Brownfield & Columbia
-Bradley & Garden Hills
-Mayfair & Sandpiper
-Market & Logan
-Prospect & Maple
-Maplepark & Maplewood
-University & Lierman
-Sixth & Gregory
-Crescent & Round Barn
-Springfield & Prospect
-Jefferson & Columbia
-Winfield Village Lot M
-Japan House
-Nevada & Lincoln
-Kerr & Carroll
-Vine & Illinois
-Duncan & Valleybrook
-Pennsylvania & Sixth
-Paula & Powers
-Cherry Hills & Curtis
-I.E.T.C. & Mattis
-Florida & Florida Ct.
-Fourth & Gregory
-Neil & Marshall
-Kirby & Mattis
-Neil & Healey
-Cottage Grove & Colorado
-Mayfair & Georgetown
-Prospect & Ventura
-Gregory & Dorner
-Washington & MacArthur
-Campbell & Dobbins
-Lincoln & Vermont
-Main & Walnut
-Main & Vine
-University & James
-Perkins & Ivanhoe
-Pinecrest & Staley
-Kirby & Mattis
-Duncan & Rolling Acres
-Philo & Scovill
-Fifth & Vine
-Main & Lynn
-Oak & Kenyon
-Springfield & Duncan
-Race & Windsor
-Westfield & Sangamon
-Williamsburg & Garden Hills
-State & Healey
-Cherry Hills & Applewood
-Broadmoor & Lincoln Pl.
-Bloomington & Hagan
-Cottage Grove & Green
-John & Mattis
-Bentbrook & Riverknoll
-Parkview
-Copper Ridge & Sand
-Stone Creek & Venturi
-Green & Locust
-Winchester & Brookhaven
-Green & Anderson
-Champaign Walmart
-Kirby & Dodds
-Foothill & Robert
-Green & Mathews
-McKinley & Beardsley
-Race & Oregon
-Amber & Myra Ridge
-Lot E-14
-Boardwalk & Town Center
-Fox & Knollwood
-University & Race
-Florida & Philo
-Brownfield & Arlene
-University & Vine
-I.E.T.C.
-Springfield & VanDoren
-Kirby & Ridge
-Bradley & State
-Lincoln & Wascher
-Harris & Sherwood
-Vine & Green
-Halifax & Maynard
-Eastern
-Windsor & Phinney
-University & Sixth
-Fox & State
-Paula & Larkspur
-Vine & Holmes
-Winchester & Branch
-Mattis & Sumac
-Nevada & Gregory Pl.
-Town Center & Neil
-Duncan & Crestridge
-Galen & Plymouth
-Cottage Grove & Illinois
-Church & Carson
-Market & Paul
-Interstate Dr. at Walmart
-Windsor & Morrissey Park
-Broadway & Stebbins
-Elm & Park
-Church & Miller
-Bradley & Mattis
-Penn & Vine
-Prospect & Kirby
-Main & Smith
-Mullikin & Graves Ct.
-Prospect & John
-Prospect & Eureka
-Cherry Hills & Lakeview
-Prospect & Marketview
-Randolph & Ells
-Winchester & Sumac
-Vine & Evergreen Ct.
-Vine & Illinois
-Japan House
-Town Center & Neil
-Winchester & Sumac
-Market Place North Entrance
-Duncan & Lawndale
-Mullikin & Stonebridge
-Highcross & Bruce Acres
-Randolph & Bradley
-Springfield & Harvey
-One Illinois South
-Campbell & Aztec
-Pomona & Bradley
-Bradley & Clayton
-Paula & McKinley
-Vine & Lynn
-Kirby & Neil
-State & Vine
-Washington & Lierman
-Willow & Baker
-Philo & Silver
-Perkins & Ivanhoe
-Sherwin & Persimmon
-University & Sixth
-Windward Point
-Neil & Washington
-Lyndhurst & Bedford
-Plastipak
-Bloomington & McKinley
-Roland & Dobbins
-Springfield & Country Fair Dr.
-State & White
-Illinois St. Residence Hall
-Bloomington & Highland
-Main & Glover
-Michigan & Kinch
-State & Park
-Anderson & Silver
-Windsor & Valleybrook
-Country Fair Dr. at Fluid Events
-Market & Wilbur
-Park Lane & Bedford
-Church & State
-Logan & First
-Goodwin & Clark
-Susan Stone & Myra Ridge
-St. Mathews
-Independent Living
-Fifth & Bradley
-Duncan & Clayton
-Market & Tulip Tree
-Main & Scottswood
-Copper Ridge & Copper
-Market & Peach Tree
-Florida & Cottage Grove
-Market & Mercury
-Captiva & Sanibel
-Gregory at Ikenberry Commons
-Sixth & Armory
-Valerie & Alpine
-Anthony Dr. at Goodwill
-Bradley
-McKinley & Harvard
-Main & Dodson
-Thompson Park
-Urbana High School
-Springfield & Duncan
-Mayfair & Georgetown
-Copper Ridge & Mullikin
-Marketview & Anthony
-Fairlawn & Eastern
-Prospect & Washington
-Boardwalk & Town Center
-Church & Edwin
-Neil & Center
-Broadmoor & Galen
-First & Gregory
-Green & Cedar
-Carroll at CACC
-Anderson & Brighton
-Balboa & Prospect
-Windsor & Vine
-Myra Ridge & Ridge Park
-Goodwin & Gregory
-Neil & Healey
-Copper Ridge & Blackhawk
-Westfield & Carrelton
-Broadway & Bailey
-Race & Washington #2
-Coronado & Ventura
-Susan Stone & Myra Ridge
-Wedgewood & Timbergate
-Lyndhurst & Arbour
-Church & Neil
-Cottage Grove & Brighton
-Stephens Family YMCA
-White & Sixth
-Randolph & Maple
-Brownfield & Prairieview
-Second & Church
-Mullikin & Crossgate
-Market & Marketview
-Philo & Scovill
-Peppermill & Pebblebrook
-Perkins & Richard
-Wendover & Woodspring
-Romine & Tremont
-Church & McKinley
-Harris & Harvard
-Transit Plaza
-Anderson & Evergreen
-Bradley & McKinley
-Amber & Philo
-Mattis & Devonshire
-Coventry & Roxford
-Logan & First
-Kirby & Coronado
-Windsor & Prospect
-Windsor & Stillwater
-Vine & Elm
-Windsor & Duncan
-Roland & Walters
-John & Hollycrest
-Mattis & Glenn Park
-Woodfield & Arbor Town
-Jefferson Middle School
-Westfield & Alton
-Church & Draper
-Campbell & Queensway
-Mullikin & Villa
-Galen & Newbury
-Airport & Fieldcrest
-Sunnycrest
-Mattis & Windsor
-Prospect at Meijer
-Windsor & Cherry Hills
-Ambucs Park
-Green & Johnson
-Green & Randolph
-Amber & Myra Ridge
-Broadway & University
-Brownfield & Arlene
-Curtis & Wynstone
-Krannert Center
-Second & Hill
-Anderson & Colorado
-State & Vine
-Mullikin & Westborough
-Brownfield & Columbia
-Prospect & Harvard
-Springfield & Country Fair Dr.
-Stone Creek & Stillwater Landing
-Vine & Colorado
-Boardwalk & Town Center
-Neil & Walingford
-Town Center & Menards
-Transit Plaza
-Penn & Busey
-Harris & Alabama
-State & Ells
-MacArthur & Illinois
-Main & Walnut
-University & Vine
-Main & Brady
-Mattis & Alton
-Fieldstone at Metritech
-Cottage Grove & Oregon
-Vance & Napleton
-Romine & Eads
-Main & Brady
-Florida & Florida Dr.
-Church & Lynn
-Baytowne & Boardwalk
-Curtis Meadow & Brighton
-Bluegrass & Brookfield
-Kirby & Waverly
-John & Prospect
-William & Stratford
-Mattis & Branch
-Restoration Urban Ministries
-County Market
-Marketview & Anthony
-Springfield & Willis
-Fourth & St. Mary's
-State & Hessel
-Springfield & Highland
-Lincoln & Bradley
-Main & Hartle
-Highcross & Bruce Acres
-Bradley & Clayton
-Town Center & Prospect
-Main & Dewey
-Columbia & Hancock
-Green & Gregory
-Crescent & Rodney
-Broadway & Bailey
-Broadway & Franklin
-Susan Stone & Summit
-Neil & Columbia
-Mattis & William
-Clayton & Duncan
-Winchester & Barberry
-Market & Garwood
-MTD Garage
-St. Mary's & Griffith
-John & Mattis
-University & Mattis
-Campbell & Roland
-Wendover & Pebble Creek
-Prospect & Healey
-Williamsburg
-John & Goldenview
-Green & Grove
-Bradley & Redwood
-Pomona & Ed Hoffman
-Clayton & Hilltop
-Springfield & Elm
-Newport & Landis Farm
-Lyndhurst & Park Ln
-Anderson & Burkwood
-Park & Mathews
-Urbana Middle School
-Main & Scottswood
-Silver & Vawter
-Springfield & Country Fair Dr.
-Vine & Sunnycrest
-Wendover & Country Bend
-Neil & Arcadia
-John & Mitchell Ct.
-Kenyon at Eastland Suites
-Airport & Highcross
-Bonnie Blair & Nancy Beth
-Philo & Michigan
-FAR
-Brittany Trail & Staley
-Romine & Ellis
-Springfield & Kenwood
-Prospect & Columbia
-McHenry & Philo
-Goodwin & Nevada
-Curtis Meadow & Staley
-Windsor & Susan Stone
-Cottage Grove & Washington
-Race & Vermont
-First & Hazelwood
-Washington & Kinch
-University & Lierman
-University & Goodwin
-McHenry & Combes
-Market & Bellefontaine
-Public Health District
-Fifth & Washington
-McHenry & Vawter
-Cottage Grove & Eastern
-Wedgewood & Timbergate
-Coventry & Roxford
-University & Maple
-Green & Cedar
-McHenry & Combes
-Mayfair & Broadmoor
-Duncan & Prairie Meadow
-Cottage Grove & Colorado
-Kirby & Mayfair
-Springfield & Ridgeway
-Wendover & Summerview
-Romine & Eads
-Central High
-Country Brook
-Lincoln Square Garage East
-Anthony & Dale
-Fifth & Bradley
-Florida & Adams
-Florida & Curtiss
-Cottage Grove & Oregon
-St. Mary's & Oak
-Neil & Washington
-Fox at Community Elements
-Lakeview & Worthington
-Winfield Village Lot G
-Country Squire & Kinch
-Bluegrass & Boca Vista
-Goodwin & Hill
-Goodwin & Church
-Windsor & Carlisle
-Westfield & William
-Skyline & Newport
-Kirby & Alma
-Fox at Christie Clinic
-Broadway & Thompson
-Broadway & Kerr
-Cottage Grove & Crestwood
-Crestwood & Clayton
-Prospect & Ventura
-Duncan & Stoneybrook
-Hamilton & Betsy Ross
-Bradley & Hagan
-Second & Hill
-Balboa & Prospect
-Penn & Broadway
-One Illinois North
-Windsor & Imperial
-Rolling Acres & Marjorie
-Perkins & Cherokee
-Westfield & Sheridan
-Lincoln & Pennsylvania
-Market & Tulip Tree
-Country Fair
-Vermont & Kinch
-Main & Grossbach
-Michigan & Green Ridge
-Sixth & Peabody
-Kirby & Neil
-Alpine & Timberline
-Mullikin & Trostshire
-Bradley & Hickory
-William & Oakcrest
-Fourth & Bradley
-Captiva & Northwood
-Clayton & Covington
-Church & Garfield
-Windward Point
-Illinois Terminal
-Vine & Brookens
-Kinch & Easy
-Bradley & Prospect
-Philo & Windsor
-Penn & Orchard
-Marketview & Anthony
-First & Lot E-14
-Florida & Hillcrest
-Main & Brady
-Bloomington & Prospect
-Bloomington & Willis
-Penn & Busey
-University & Wright
-Washington & Smith
-Cunningham & Park
-Cottage Grove & Harding
-Springfield & Fieldstone
-Aldi
-Windsor & Boulder
-Country Fair Dr. at R.P. Lumber
-Bradley & Mattis
-Cottage Grove & Colorado
-Springfield & Pine
-Brittany Trail & Staley
-Country Fair Dr. & Church
-University & Lynn
-Fifth & Tremont
-Lincoln & Park
-Paula & Garden Hills
-Oak St.
-Race & Windsor
-Windsor & Cherry Hills
-Lakeview & Wedgewood
-Prospect & Ayrshire
-Williamsburg & Summerlin
-Sussex & Windward
-Alpine & Bradley
-Market & Peach Tree
-Romine & Bradley
-Town Center at Meijer
-Clayton & Hilltop
-Kerr & Cunningham
-Country Squire & Kinch
-Church & Orchard
-Winchester & Belmore
-Perkins & Cooks Ln.
-Fieldstone at Metritech
-Orchard Downs Mid-South
-Bradley & Elm
-Country Club & Willow
-Prospect & Pioneer
-Lincoln & Illinois
-Florida & Cottage Grove
-Cunningham & Oakland
-Prospect & Devonshire
-Washington & Timothy Tr.
-Bradley & Williamsburg
-St. Mary's & Neil
-Third & Daniel
-Valerie & Meaghan
-Fourth between Kirby & St Marys
-Interstate & Farber
-Fifth & Columbia
-Windsor & Stillwater
-Lincoln & Kettering Park
-Anthony & Dobbins
-Neil & Center Dr.
-Race & Meadow
-Dodson & Illinois
-University & Sabin
-Prospect & Washington
-Balboa & Southwest Dr.
-Scottswood & Nevada
-Devonshire & Noel
-Bradley & McKinley
-White & Wright
-Kirby & Valley Rd.
-Goodwin & Park
-Wildflower & Chickory
-Philo & Silver
-U.S. 150 & Dodson
-Church St.
-Green & Sixth
-Race & Nevada
-Susan Stone & Plains Ct.
-Fourth & Kirby
-Pennsylvania at PAR
-Lynn & Park
-Anderson & Silver
-Randolph & Healey
-Fox & Windsor
-MacArthur & MacArthur Ct.
-Church & Russell
-Gregory at Library
-Crestwood & Clayton
-John & Fair
-Windsor & Prospect
-Bradley & State
-Florida & Kinch
-Clayton & Delmar
-John & James
-Green & Goodwin
-Cottage Grove & Penn
-Bradley & Mattis
-Beech & Romine
-Race & Iowa
-Randolph & Columbia
-Bradley & Duncan
-Devonshire & Lynnwood Dr.
-Columbia & Hickory
-White & Wright
-Fifth & Eureka
-Windsor & Cherry Hills
-Highcross & Nordland
-State & Cedar
-Brittany Trail & Mullikin
-Brownfield & Airport
-Cherry Hills & Pine Valley
-University & Maple
-Florida & Busey
-Mattis & Princeton
-Wright & Beech
-Crossgate & Ironwood Ln
-Main & Art Bartell
-William & Bellepark
-Florida & Linden
-Wright & Springfield
-Kerr & Cunningham
-Cyprus Point & Stillwater Landing
-Cobblefield & Balmoral
-Vine & Holmes
-Pennsylvania & Race
-Randolph & Stanage
-John & Garfield
-University & Goodwin
-Market Place West
-Lincoln & Hill
-Kirby & Mattis
-Park & Romine
-Jefferson & Columbia
-Crossgate & Ironwood Ln
-MacArthur & California
-Springfield & Busey
-Broadmoor & Lynwood
-Perkins & Highcross
-Pennsylvania & Race
-Parkland Ct. & Bradley
-Kirby & Mullikin
-Lincoln & Pennsylvania
-Crestwood & Bradley
-Country Club & Golfview
-Philo & Colorado
-Brownfield & Johnson
-Brownfield & Perkins
-Fox & State
-Brownfield & Sharlyn
-Cherry Hills & Coppertree
-Lincoln & Oregon
-Country Fair West Entrance
-First & Daniel
-Susan Stone & Jane Ann Ct.
-Bloomington & Mittendorf
-Broadway & University
-Cunningham & Thompson
-St. Mary's & Oak
-Fairview & Goodwin
-Florida & James Cherry
-Springer & Country Fair Dr.
-Vine & Oregon
-Country Club Rd. at Apts.
-Fourth & Gregory
-State & Washington
-Heritage Park
-Duncan & Valerie
-Race at Stone Creek Church
-Main & Chestnut
-Broadmoor & McDonald
-Crescent & William
-Green & Wright
-Penn & Maryland
-Vine & Green
-Perkins & Carroll
-Town Center at Target
-Beech & Romine
-Staley & Colleen
-Cobblefield & Englewood
-Fairview & Lincoln
-Philo & Pennsylvania
-Williamsburg & Garden Hills
-Highcross & Kyle
-Eastern
-Vet-Med
-University & Lynn
-Kirby & Coronado
-Wright & Hill
-Main & Smith
-Beslin & Romine
-Anderson & Fairlawn
-Neil & Beardsley
-Romine & Eureka
-Walnut & Washington
-Curtis & Meadow
-Galen & Yorkshire
-Broadmoor & Galen
-The Place at 117
-Neil & Springfield
-Lincoln & Kettering Park
-Anthony & Willow
-Myra Ridge & Autumn Ridge
-Westfield & Sheridan
-Church & Victor
-Susan Stone & Jane Lee Ct.
-Florida & Lincoln
-Dover & Balboa
-Randolph & John
-State & Buena Vista
-First & Stadium
-Pomona & Bradley
-Florida & Smith
-Dodson & Nevada
-Cunningham & Thompson
-Crestwood & Katie Lynn
-Development Services Center
-Mattis & Round Barn
-Fox at Christie Clinic
-McHenry & Pond
-Cottage Grove & Glenwood Oaks
-University & Neil
-Main & Dodson
-Farley & Pebblebrook
-Main & Lierman
-Winchester & Aspen
-Galen & Theodore
-Harris & Louisiana
-Fox & Devonshire
-Randolph & Springfield
-Devonshire & Lakeside
-Krannert Art Museum
-Kenyon & Cracker Barrel
-Park & Romine
-Wright & Stoughton
-Goodwin & Hill
-Main & Vine
-Randolph & Beardsley
-Westfield & William
-Perkins & Cherokee
-Paula & Melanie
-Copper Ridge & Ironwood
-Goodwin & Main
-Vine & Oregon
-Windsor & Mullikin
-Brittany Trail & Southford
-Green & Webber
-Hunter & Lanore
-Market & Marketview
-Mullikin & Westborough
-Prospect & Maple
-Winchester & Cypress
-McHenry & Pond
-Randolph & Bradley
-Lynn & Park
-State & Springfield
-Winchester & Broadmoor
-Washington & Rainbow View
-Brownfield & Mary Lou
-Cottage Grove & Harding
-Kirby & Valley Rd.
-Kirby & Coronado
-Boardwalk & Town Center
-Paula & Garden Hills
-Orchard Downs North Shelter
-Green & Urbana
-Vine & Washington
-Oak & Anthony
-Hagan & Dennison
-Springfield & Draper
-Romine & Bradley
-Penn & Kinch
-Kirby & Crescent
-Marketview at Marketview Center
-Paula & Cynthia
-Randolph & Hill
-Fox at Community Elements
-Fairview & Goodwin
-Philo & Windsor
-Country Fair Dr. at R.P. Lumber
-Newport & Milford
-Crescent & John
-Bentbrook & Cobblefield
-Kirby & Rose
-Randolph & White
-Cottage Grove & Harding
-Kirby & Lincoln Rd.
-Florida & Bermuda
-Anthony & Dawn
-State & Buena Vista
-Ward & Kerr
-John & Duncan
-State & John
-Race & Oregon
-Springfield & Busey
-Country Fair West Entrance
-Fairlawn & Cottage Grove
-John & Dogwood
-Green & Orchard
-John & New
-Newton & Leggett
-Myra Ridge & Silver Hill
-Susan Stone & Moss
-Airport & Highcross
-Race & Washington #2
-Philo & Laurel
-Windward & Countryside
-Clayton & Rossmoor
-Philo & Briarcliff
-Mullikin & Copper Ridge
-Williamsburg
-Florida & Maple
-Prospect & Harvard
-Neil & Columbia
-Fairlawn & Grant Pl.
-Neil & Stadium
-Roland & Aztec
-Anderson & Mumford
-Cherry Hills & Lakeview
-Fourth & Kirby
-Green & State
-Lyndhurst & Lyndhurst Village Ct.
-Mattis & Sangamon
-Springfield & Country Fair Dr.
-Orchard Downs South Shelter
-Devonshire Corporate Center
-Transit Plaza
-Fox at SURS
-Kirby & Stratford
-Cottage Grove & Illinois
-Randolph & Clark
-Florida & Maple
-Neil & North
-Transit Plaza
-Church & Fair
-Winchester & Barberry
-First & Windsor
-Mattis & Henry
-Lincoln & St. Mary's
-Washington & Scottswood
-Goodwin & Gregory
-Edison Middle School
-Lincoln & Pennsylvania
-Fairlawn
-Penn & Vine
-Barnes & Noble Books
-Ag. Engineering
-John & New
-Fairview & Harvey
-Interstate & Newmark
-Summersage & Switchgrass
-Country Fair Dr. & University
-Silver & Cottage Grove
-Wildflower & Trailway
-Springfield at Phillips Rec. Ctr
-Hazelwood & Oak
-Wright & Beech
-Main & Art Bartell
-Linview & Killarney
-Bloomington & Willis
-Staley & Turnberry
-Windsor & Willowbrook
-Country Club & Willow
-Florida & Kinch
-Central High
-Prospect & Vine
-Campbell & Dobbins
-Westfield & Lawndale
-Springfield & Staley
-MacArthur & High
-Water Survey
-Myra Ridge & Autumn Ridge
-Lincoln & Bradley
-Sixth & Bradley
-Race & Holmes
-Westgate Apts.
-Newton & Research
-Clayton & Delmar
-Mayfair & Lincolnshire
-Springfield & Garfield
-Broadway & Thompson
-Dodson & Washington
-Colbert Park
-Mattis & Southwood
-U.S. 150 & University
-5th & Washington
-William & Bellepark
-MacArthur & MacArthur Ct.
-Galen & Harrington
-Florida & Vine
-Bradley & Neil
-Country Club & Division
-Susan Stone & Galena
-Neil & Bellefontaine
-Devonshire & Sandpiper
-Anderson & Sunnycrest
-Crescent & Sangamon
-State & Tremont
-University & Cottage Grove
-Goodwin & Clark
-Bradley at WLRW
-Hagan & Pioneer
-Vine & McKinley
-Bradley & Country Fair Dr.
-Michigan & Kinch
-Florida & Rutledge
-Viking North
-Summersage & Switchgrass
-University & Draper
-Philo & Colorado
-Moraine & Lake Shore
-Brittany Trail & Southford Trace W
-Bradley & James
-Country Club & Willow
-Illini Union
-Brady & High
-Goodwin & Main
-Fifth & Tremont
-Fox & Windsor
-Kirby & Crescent
-Kirby & Mattis
-Airport & Clifton
-Kenyon at Steak & Shake
-William & Duncan
-Williamsburg & Summit Ridge
-Social Security
-Cunningham & Crystal Lake
-Slayback & Carrie
-Washington & Country Squire
-John & Victor
-Kirby & Cambridge
-Hamilton & Jefferson
-University at MTD
-Prospect & Francis
-Kirby & Mayfair
-Woodfield & Arbor Town
-Broadway & Kerr
-Northwood & George
-Neil & Marketview
-Springfield & Harvey
-Neil & Burwash
-Washington & Second
-Prospect & Pioneer
-Prospect & Ayrshire
-Farber & Newton
-Winfield Village Lot M
-Bradley & Hickory
-Paula & Melanie
-Airport & Captiva
-Bradley & Mattis
-Clayton & High View
-John & Foley
-Anthony & Kankakee
-Liberty & Columbia
-Vine & Willis
-Hagan & Pioneer
-Hagan & Dennison
-Green & Neil
-Washington & Scottswood
-Pennsylvania at Law Building
-Research at Hobbico
-Town Center & Neil
-Market & Garwood
-John & Edwin
-Fairview & Harvey
-Liberty & Jefferson
-Oak & Gerty
-Randolph & Vine
-Mattis & Broadmoor
-Florida & Kinch
-Main & University
-Mattis & Cypress
-Town & Country Apts.
-Green & Maple
-Meadowbrook Park
-State & Springfield
-Prospect & Tremont
-Pomona & Deske Ct.
-Myra Ridge & Trails
-Green & Mathews
-Winfield Village Lot B
-U.S. 150 & Dale
-Washington & Hickory
-Springfield & Country Fair Dr.
-Florida & Curtiss
-Kirby & Bellepark
-Kirby & Crescent
-Cottage Grove & California
-Brownfield & Columbia
-Mercury & Gemini
-Prospect & Hill
-Toalson & Interstate
-Cunningham & Perkins
-Windsor & Prospect
-Church & Busey
-Fairview & Busey
-Market Place & Convenience Dr.
-Anthony & Dobbins
-Market & Marketview
-Kirby & Carriage Way
-Westfield & Alton
-Wright & Columbia
-Pomona & Deske Ct.
-Walnut & Logan
-I. T. at Market St.
-Airport & Somerset
-Winchester & Branch
-Amber & Philo
-Clark Lindsey Village
-Florida & Grove
-Kirby & Stratford
-Viking South
-Cottage Grove & Mitchem
-Randolph & Eureka
-Second & Church
-Kirby & Mullikin
-Crescent & William
-Leggett & Bardeen
-Airport & Willow
-Lierman & Bartell
-Airport & Arlene
-Mattis & Meadow
-Fairlawn & Patton
-Florida & Lincolnwood
-Willow & Kenyon
-Wright & Washington
-Windsor & Fields South
-Mattis & Ivy Ct. North
-Bradley & Country Fair Dr.
-Fairlawn & Eastern
-Bradley & Walnut
-Mattis & Broadmoor
-Switchgrass & Wildflower
-Vine & Washington
-Bradley & Prospect
-Green & State
-State & Charles
-Prospect & Ayrshire Cir.
-Washington & Lanore
-Anderson & Mumford
-Clayton & Bellerieve
-Steer Place
-Vine & Sunnycrest
-Orchard Downs Mid-North
-Broadway & Park
-Clark Lindsey Village
-PAR
-Washington & Rainbow View
-John & Mattis
-Kenyon at Steak & Shake
-Neil & Garwood
-St. Mary's & Griffith
-Kirby & Scottsdale
-Duncan & Sierra
-Butzow at Guardian West
-Kirby & Crescent
-Cobblefield & Crail
-Winfield Village Lot B
-University & Race
-Cobblefield & Bridge Point Dr
-Crossgate & Crossgate Ct.
-Vine & Prairie
-Fourth & Kirby
-Coler & Church
-Second & Park
-Sherwin & Sherwin Cir.
-First & Lake Park South
-Sixth & Chalmers
-Galen & Windsor
-Kirby & Glenshire
-Kinch & Lantern Hill
-Duncan & Valleybrook
-First & Stadium
-John & Lynn
-Fifth & Beardsley
-Fourth & Chalmers
-Third & Daniel
-Bradley & Garden Hills
-Hessel & Randolph
-Lyndhurst & Burwash
-Amber & Myra Ridge
-White & Second
-Mayfair & Weathervane
-Windsor & Vine
-Main & Cottage Grove
-Fairview & Gregory
-William & Centennial
-Duncan & Clark
-Cobblefield & Crail
-White & Sixth
-Fields South & Farhills
-Lot E-14
-Winchester & Tamarack
-McHenry & Philo
-Dodson & Washington
-John & Prairie
-Stone Creek & Bohn
 4th & Armory
-Michigan & Green Ridge
-State & John
-Neil & White
-John & Prairie
-Country Club & Division
-Market Place
-Fifth & Bradley
-University & Willis
-Harris & Bradley
-Elm & Vine
-Windsor & Scottsdale
-Florida & Philo
-Bradley & Elm
-Pomona & Santa Ana
-Crescent & Parkdale
-First & Armory
-McHenry & Fletcher
-Duncan & Lawndale
-Mercury at FedEx
-Perkins & Richard
-Campbell & Aztec
-Springfield at Country Fair
-Prospect & Beardsley
-University & Second
-Roland & Comanche
-Windsor & Myra Ridge
-Neil & Garwood
-Crestwood & Ladue
-Broadmoor & Galen
-Vine & McKinley
-Florida & Anderson
-Penn & Anderson
-Country Squire Ct.
-U.S. 150 & Dale
-Coler & Church
-Galen & Yorkshire
-Bradley & Hagan
-John & Hollycrest
-Market & Wallace
-Bluegrass & Sandstone
-McHenry & Lynn
-Slayback & McGee
-Maplepark & Sangamon
-Perkins & Eastern
-Anderson & Harding
-Lawndale & Bellepark
-Winchester & Tamarack
-Amber & Philo
-John & Western
-Carroll
-Main & Walnut
-Staley & Colleen
-Fairlawn & Cottage Grove
-State & Trade Center Dr.
-Church & Prospect
-Windsor & Phinney
-Anthony Dr. at Goodwill
-Cottage Grove & Eastern
-Main at ILEAS
-Market Place South
-Mayfair & Broadmoor
-Race & McHenry
-Sherwin & Sherwin Cir 2
-Washington & Scottswood
-Green & Maple
-Sherwin & Sherwin Cir.
-Mattis & Stonegate
-Brittany Trail & Kensington Knoll
-Fairview & Lincoln
-Duncan & Stoneybrook
-Hunter & Austin
-John & James
-Fairview & Busey
-Kerr & Ward
-Mattis & Bloomington
-Springfield & Country Fair Dr.
+4th & Chalmers
+5th & Chalmers
+5th & Washington
+ARC
+Ag. Engineering
+Airport & Arlene
+Airport & Captiva
+Airport & Clifton
+Airport & Cunningham
+Airport & Donald
+Airport & Fieldcrest
+Airport & Highcross
+Airport & Landis Farm
+Airport & Skyline
+Airport & Somerset
+Airport & Willow
+Aldi
+Alpine & Bradley
 Alpine & Timberline
-Captiva & George
-Winchester & Glenoak
-Windward & Countryside
-Brownfield & Airport
-Duncan & Ridgewood
-Sixth & Bradley
-Susan Stone & Moss
-Bradley & McKinley
-Park & McCullough
-Switchgrass & Trailway
-University & Randolph
-Kirby & Dawson
-Prospect & Kirby
-Sunnycrest Mall
-Beech & Romine
-Neil & Vine
-Carrol Fire Department
-Franklin Middle School
-Bloomington & Alabama
-Kirby & Western
+Amber & Myra Ridge
+Amber & Philo
+Ambucs Park
+Anderson & Brighton
 Anderson & Burkwood
-Inverness & Prestwick Pt
-Nevada & Lincoln
-Market & Kenyon
-Lakeview & Wedgewood
-Brownfield & Agnes
-William & Stratford
-State & John
-Broadway & Stebbins
-Walnut & Columbia
+Anderson & Colorado
+Anderson & Eliot
+Anderson & Evergreen
+Anderson & Fairlawn
+Anderson & Harding
+Anderson & Michigan
+Anderson & Mumford
+Anderson & Silver
+Anderson & Sunnycrest
+Anthony & Campbell
+Anthony & Columbia
+Anthony & Dale
+Anthony & Dawn
+Anthony & Dobbins
+Anthony & Dusk
+Anthony & Kankakee
+Anthony & Mattis
+Anthony & North Shore
+Anthony & Walters
+Anthony & Willow
+Anthony Dr. at Goodwill
+Anthony at Ameren
+Anthony at Napleton's
+Anthony at Rural King
+Anthony at Wood Spring Suites
+Armory & Wright
+Ashton Woods
+Atrium Apts
+BRADWMBG:5
+Balboa & Prospect
+Balboa & Southwest Dr.
+Bardeen & Toalson
+Barnes & Noble Books
+Baytowne & Boardwalk
+Beech & Romine
+Bentbrook & Bentbrook Ct
+Bentbrook & Cobblefield
+Bentbrook & Golf Creek
+Bentbrook & Pinecrest
+Bentbrook & Riverknoll
+Bentbrook & Staley
+Beslin & Romine
+Big Lots
+Bloomington & Alabama
+Bloomington & Hagan
+Bloomington & Highland
+Bloomington & Louisiana
+Bloomington & McKinley
+Bloomington & Mittendorf
+Bloomington & Prospect
+Bloomington & Sunset
+Bloomington & Willis
+Bloomington at Pioneer Plaza
+Bluegrass & Boca Vista
+Bluegrass & Boulder Ridge
+Bluegrass & Brookfield
+Bluegrass & Sandstone
+Bluegrass & Summersage
+Boardwalk & Interstate
+Boardwalk & Meijer Dr.
+Boardwalk & Town Center
+Bonnie Blair & Amy
 Bonnie Blair & Gold Medal
-Race & High St.
-Market & Bellefontaine
-McHenry & Fletcher
-Main & Hartle
-Brittany Trail & Mullikin
+Bonnie Blair & Nancy Beth
+Bonnie Blair & Sharon
+Bonnie Blair & Valerie
+Boulder Ridge & Farley
+Boulder Ridge & Peppermill
+Bradley
+Bradley & Carver
+Bradley & Champaign
+Bradley & Clayton
+Bradley & Country Fair Dr.
+Bradley & Crispus
+Bradley & Duncan
+Bradley & Elm
+Bradley & Garden Hills
 Bradley & Hagan
-Westfield & Carrelton
-University & Lake
-Plant Sciences Lab
-Green & Locust
-Country Fair Dr. & Park
-Kirby & Westfield
-Wright & Dublin
+Bradley & Hickory
+Bradley & James
+Bradley & Mattis
+Bradley & McKinley
 Bradley & Neil
-Prospect & Broadmoor
-Country Fair West Entrance
-Nevada & Lincoln
-William & Duncan
-John & Pine
-Neil & Edgebrook
+Bradley & Prospect
+Bradley & Redwood
+Bradley & State
+Bradley & Walnut
+Bradley & Williamsburg
+Bradley & Willis
+Bradley at WLRW
+Brady & High
+Brittany Trail & Kensington Knoll
+Brittany Trail & Mullikin
+Brittany Trail & Southford
+Brittany Trail & Southford Trace W
+Brittany Trail & Staley
+Broadmoor & Bellamy
+Broadmoor & Crescent
+Broadmoor & David
+Broadmoor & Galen
+Broadmoor & Georgetown
+Broadmoor & Lakeside
+Broadmoor & Lincoln Pl.
+Broadmoor & Lynwood
+Broadmoor & McDonald
+Broadmoor & Robert
+Broadway & Bailey
+Broadway & Chapin
+Broadway & Country Club
+Broadway & Crystal Lake
+Broadway & Franklin
+Broadway & Kerr
+Broadway & Oakland
+Broadway & Park
+Broadway & Stebbins
+Broadway & Thompson
+Broadway & University
+Brownfield & Agnes
+Brownfield & Airport
+Brownfield & Arlene
+Brownfield & Clifton
+Brownfield & Columbia
+Brownfield & Johnson
+Brownfield & Mary Lou
+Brownfield & Perkins
+Brownfield & Prairieview
+Brownfield & Sharlyn
+Burwash & Woodfield
+Butzow & Lierman
+Butzow at Guardian West
+Campbell & Aztec
+Campbell & Comanche
+Campbell & Curt
+Campbell & Dobbins
+Campbell & Queensway
+Campbell & Roland
+Campus Circle
+Captiva & George
+Captiva & Northwood
+Captiva & Sanibel
+Carrol Fire Department
+Carroll
+Carroll & Kerr
+Carroll at CACC
+Central High
+Champaign House
+Champaign Walmart
+Chemical & Life Sciences
+Cherry Hills & Applewood
+Cherry Hills & Coppertree
+Cherry Hills & Crestridge
+Cherry Hills & Curtis
+Cherry Hills & Lakeview
+Cherry Hills & Pine Valley
+Christie Clinic
+Church & Busey
+Church & Carson
+Church & Denton
+Church & Draper
+Church & Edwin
+Church & Elm
+Church & Fair
+Church & Garfield
+Church & James
+Church & Lynn
+Church & Mattis
+Church & McKinley
+Church & Miller
+Church & Neil
+Church & New
+Church & Orchard
+Church & Prairie
+Church & Prospect
+Church & Russell
+Church & State
+Church & Victor
+Church & Willis
+Church St.
+Clark Lindsey Village
+Clayton & Bellerieve
+Clayton & Clearwater
+Clayton & Compton
+Clayton & Covington
+Clayton & Crestview
+Clayton & Creve Coeur
+Clayton & Delmar
+Clayton & Duncan
+Clayton & Heritage
+Clayton & Higgins
+Clayton & High View
+Clayton & Hilltop
+Clayton & Irvine
+Clayton & Pomona
+Clayton & Rossmoor
+Cobblefield & Aberdeen
+Cobblefield & Balmoral
+Cobblefield & Bridge Point Dr
+Cobblefield & Crail
+Cobblefield & Englewood
+Cobblefield & Glenn Brooke
+Cobblefield & Inverness
+Colbert Park
+Coler & Church
+Coler & Fairview
+Colorado & Larch
+Colorado at Steer Place
+Columbia & Betsy Ross
+Columbia & Hancock
+Columbia & Hickory
+Convenience Dr. & Market
+Copper Ridge & Blackhawk
+Copper Ridge & Copper
+Copper Ridge & Ironwood
+Copper Ridge & Mullikin
+Copper Ridge & Sand
+Coronado & Dover
+Coronado & Ventura
+Cottage Grove & Brighton
+Cottage Grove & California
+Cottage Grove & Colorado
+Cottage Grove & Crestwood
+Cottage Grove & Eastern
+Cottage Grove & Glenwood Oaks
 Cottage Grove & Green
+Cottage Grove & Harding
+Cottage Grove & Illinois
+Cottage Grove & Mitchem
+Cottage Grove & Oregon
+Cottage Grove & Penn
+Cottage Grove & Philo
+Cottage Grove & Washington
+Country Bend & Springhill
+Country Bend & Summerhill
+Country Brook
+Country Club & Division
+Country Club & Golfview
+Country Club & Willow
+Country Club Rd. at Apts.
+Country Fair
+Country Fair Dr. & Camp
+Country Fair Dr. & Church
+Country Fair Dr. & Cone
+Country Fair Dr. & Park
+Country Fair Dr. & University
+Country Fair Dr. at Fluid Events
+Country Fair Dr. at R.P. Lumber
+Country Fair West Entrance
+Country Squire & Kinch
+Country Squire Ct.
+County Market
+County Satellite Jail
+Coventry & Maynard
+Coventry & Roxford
+Crescent & Greendale
+Crescent & John
+Crescent & Lawndale
+Crescent & Ola
+Crescent & Parkdale
+Crescent & Rodney
+Crescent & Round Barn
+Crescent & Sangamon
+Crescent & Southwood
+Crescent & William
+Crestridge & Lakewood
 Crestwood & Bradley
+Crestwood & Clayton
+Crestwood & Edward Hoffman
+Crestwood & Florence
+Crestwood & Katie Lynn
+Crestwood & Ladue
+Crossgate & Charwick
+Crossgate & Crossgate Ct.
+Crossgate & Ironwood Ln
+Cunningham & Crystal Lake
+Cunningham & Oakland
+Cunningham & Park
+Cunningham & Perkins
+Cunningham & Thompson
+Curtis & First
+Curtis & Meadow
+Curtis & Wynstone
+Curtis Meadow & Brighton
+Curtis Meadow & Foxborough
+Curtis Meadow & Staley
+Curtis Rd. at Winfield Village
+Cyprus Point & Stillwater Landing
+D.S.C. on Clark
+DART
+Development Services Center
+Devonshire & Devonshire Ct.
+Devonshire & Lakeside
+Devonshire & Lynnwood Dr.
+Devonshire & Mayfair
+Devonshire & Noel
+Devonshire & Peach
+Devonshire & Sandpiper
+Devonshire Corporate Center
+Dodson & Illinois
+Dodson & Nevada
+Dodson & Washington
+Dodson East & Slayback
+Dorner & Peabody
+Dover & Balboa
+Duncan & Blair
+Duncan & Clark
+Duncan & Clayton
+Duncan & Crestridge
+Duncan & Crossing Ct.
+Duncan & Daniel
+Duncan & Lager
+Duncan & Lawndale
+Duncan & Meadows West
+Duncan & Prairie Meadow
+Duncan & Ridgewood
+Duncan & Rolling Acres
+Duncan & Sierra
+Duncan & Southwood
+Duncan & Stoneybrook
+Duncan & Valerie
+Duncan & Valleybrook
+Eastern
+Eastern & Kerr
+Edison Middle School
+Elm & Park
+Elm & Vine
+FAR
+Fairlawn
+Fairlawn & Cottage Grove
+Fairlawn & Eastern
+Fairlawn & Grant Pl.
+Fairlawn & Patton
+Fairview & Busey
+Fairview & Goodwin
+Fairview & Gregory
+Fairview & Harvey
+Fairview & Lincoln
+Fairview & Linview
+Farber & Newton
+Farber at CERL
+Farhills & Staley
+Farley & Pebblebrook
+Farley & West Ridge
+Fedex on Killarney
+Fields South & Farhills
+Fieldstone at Horizon Hobby
+Fieldstone at Metritech
+Fifth & Beardsley
+Fifth & Bradley
+Fifth & Columbia
+Fifth & Eureka
+Fifth & Grove
+Fifth & Tremont
+Fifth & Vine
+Fifth & Washington
+First & Armory
+First & Daniel
+First & Gerty
+First & Gregory
+First & Hazelwood
+First & Lake Park North
+First & Lake Park South
+First & Lot E-14
+First & St. Mary's
+First & Stadium
+First & Windsor
+First at iHotel
+Florida & Adams
+Florida & Anderson
+Florida & Bermuda
+Florida & Broadway
+Florida & Busey
+Florida & Carle
+Florida & Cottage Grove
+Florida & Curtiss
+Florida & Florida Ct.
+Florida & Florida Dr.
+Florida & Grove
+Florida & Hillcrest
+Florida & James Cherry
+Florida & Kinch
+Florida & Lincoln
+Florida & Lincolnwood
+Florida & Linden
+Florida & Maple
+Florida & Orchard
+Florida & Philo
+Florida & Pleasant
+Florida & Race
+Florida & Rutledge
+Florida & Smith
+Florida & Vine
+Florida & Wiley
+Florida at Thomas Paine
+Foothill & Robert
+Fourth & Armory
+Fourth & Bradley
+Fourth & Chalmers
+Fourth & Gregory
+Fourth & Kirby
+Fourth & Peabody
+Fourth & Pennsylvania
+Fourth & St. Mary's
+Fourth between Kirby & St Marys
+Fox & Devonshire
+Fox & Knollwood
+Fox & State
+Fox & Windsor
+Fox at Christie Clinic
+Fox at Community Elements
+Fox at Remax
+Fox at SURS
+Franklin Middle School
+Galen & Devonshire
+Galen & Harrington
+Galen & Newbury
+Galen & Plymouth
+Galen & Ross
+Galen & Salisbury
+Galen & Sussex
+Galen & Theodore
+Galen & Wilshire
+Galen & Windsor
+Galen & Yorkshire
+George Huff & Race
+Ginger Creek
+Goodwin & Church
+Goodwin & Clark
+Goodwin & Gregory
+Goodwin & Hill
+Goodwin & Main
+Goodwin & Nevada
+Goodwin & Park
+Goodwin at Ceramics Building
+Goodwin at Materials Research
+Green & Anderson
+Green & Birch
+Green & Busey
+Green & Cedar
+Green & Fourth
+Green & Goodwin
+Green & Gregory
+Green & Grove
+Green & Johnson
+Green & Locust
+Green & Lynn
+Green & Maple
+Green & Mathews
+Green & Neil
+Green & Orchard
+Green & Prairie
+Green & Prospect
+Green & Race
+Green & Randolph
+Green & Second
+Green & Sixth
+Green & State
+Green & Urbana
+Green & Webber
+Green & Wright
+Gregory & Dorner
+Gregory at Ikenberry Commons
+Gregory at Library
+Gregory at Mumford Hall
+Guardian Dr. & Butzow
+Hagan & Dennison
+Hagan & Pioneer
+Halifax & Maynard
+Hamilton & Betsy Ross
+Hamilton & Jefferson
+Hancock & Hamilton
+Hancock & Liberty
+Harris & Alabama
+Harris & Beardsley
+Harris & Bloomington
+Harris & Bradley
+Harris & Harvard
+Harris & Louisiana
+Harris & Maple
+Harris & Sherwood
+Hazelwood & Oak
+Heritage Park
+Hessel & Randolph
+Highcross & Apostalic Life Church
+Highcross & Bruce Acres
+Highcross & Kyle
+Highcross & Nordland
+Holiday Inn
+Hunter & Austin
+Hunter & Country Squire
+Hunter & Lanore
+I. T. at Market St.
+I.E.T.C.
+I.E.T.C. & Mattis
+Illini Union
+Illinois & Broadway
+Illinois & Glenn
+Illinois St. Residence Hall
+Illinois Terminal
+Independence & Betsy Ross
+Independent Living
+Interstate & Farber
+Interstate & Newmark
+Interstate & Research
+Interstate & Waterview Way
+Interstate Dr. at Walmart
+Inverness & Prestwick Pt
+Ironwood & Staley
+Japan House
+Jefferson & Columbia
+Jefferson Middle School
+John & Chicago
+John & Dogwood
+John & Draper
+John & Duncan
+John & Edwin
+John & Elm
+John & Fair
+John & Foley
+John & Frank
+John & Garfield
+John & Goldenview
+John & Highland
+John & Hollycrest
+John & James
+John & Kenwood
+John & Lynn
+John & Mattis
+John & McKinley
+John & Mitchell Ct.
+John & New
+John & Pine
+John & Prairie
+John & Prospect
+John & Ridgeway
+John & Russell
+John & Victor
+John & Western
+John & Westlawn
+John & Willis
+Kenyon & Cracker Barrel
+Kenyon at Eastland Suites
+Kenyon at Steak & Shake
+Kerr & Berkley
+Kerr & Carroll
+Kerr & Cunningham
+Kerr & Division
+Kerr & Geraldine
+Kerr & Highlands
+Kerr & Ward
+Kettering & Linview
+Kinch & Easy
+Kinch & Lantern Hill
+Kinch & Rainbow View
+Kirby & Alma
+Kirby & Arrow
+Kirby & Bellepark
+Kirby & Cambridge
+Kirby & Carolyn
+Kirby & Carriage Way
+Kirby & Cobblefield
+Kirby & Coronado
+Kirby & Crescent
+Kirby & Dawson
+Kirby & Dodds
+Kirby & Duncan
+Kirby & Glenshire
+Kirby & Grandview
+Kirby & Grandview West
+Kirby & Greencroft
+Kirby & Kenwood
+Kirby & Lincoln Rd.
+Kirby & Mattis
+Kirby & Mayfair
+Kirby & Mullikin
+Kirby & Neil
+Kirby & Oak
+Kirby & Park Haven
+Kirby & Ridge
+Kirby & Rose
+Kirby & Rosewood
+Kirby & Scottsdale
+Kirby & State
+Kirby & Stratford
+Kirby & Valley Rd.
+Kirby & Waverly
+Kirby & Western
+Kirby & Westfield
+Krannert Art Museum
+Krannert Center
+LAR
+Lakeshore & Maynard
+Lakeview & Wedgewood
+Lakeview & Worthington
+Lawndale & Bellepark
+Lawndale & Centennial
+Leggett & Bardeen
+Liberty & Betsy Ross
+Liberty & Columbia
+Liberty & Jefferson
+Lierman & Bartell
+Lierman & Hunter
+Lincoln & Anthony
+Lincoln & Bradley
+Lincoln & Church
+Lincoln & College Ct.
+Lincoln & Delaware
+Lincoln & Eads
+Lincoln & Florida
+Lincoln & Hill
+Lincoln & Illinois
+Lincoln & Kettering Park
+Lincoln & Killarney
+Lincoln & Oregon
+Lincoln & Park
+Lincoln & Pennsylvania
+Lincoln & St. Mary's
+Lincoln & St. Marys
+Lincoln & Sunset
+Lincoln & Vermont
+Lincoln & Wascher
+Lincoln Square Courthouse
+Lincoln Square Garage East
+Lincoln Square Garage South
+Lincolnshire & Foothill
+Linview & Killarney
+Logan & First
+Lot E-14
+Lyndhurst & Arbour
+Lyndhurst & Bedford
+Lyndhurst & Burwash
+Lyndhurst & Evergreen Circle
+Lyndhurst & Lyndhurst Village Ct.
+Lyndhurst & Magnolia
+Lyndhurst & Old Maple Lane
+Lyndhurst & Park Ln
+Lynn & Park
+MTD Garage
+MacArthur & California
+MacArthur & High
+MacArthur & Illinois
+MacArthur & MacArthur Ct.
+Main & Art Bartell
+Main & Brady
+Main & Broadway
+Main & Chestnut
+Main & Cottage Grove
+Main & Dewey
+Main & Dodson
+Main & Ennis
+Main & Fremont
+Main & Glover
+Main & Grossbach
+Main & Grove
+Main & Hartle
+Main & Lierman
+Main & Lynn
+Main & Maple
+Main & Poplar
+Main & Scottswood
+Main & Smith
+Main & University
+Main & Urbana
+Main & Vine
+Main & Walnut
+Main & Webber
+Main at ILEAS
+Maplepark & Lawndale
+Maplepark & Maplewood
+Maplepark & Sangamon
+Maplepark & William
+Market & Bellefontaine
+Market & Bradley
+Market & Garwood
+Market & Kenyon
+Market & Logan
+Market & Marketview
+Market & Mercury
+Market & Paul
+Market & Peach Tree
+Market & Roper
+Market & Tulip Tree
+Market & Wallace
+Market & Wilbur
+Market Place
+Market Place & Convenience Dr.
+Market Place North Entrance
+Market Place South
+Market Place Southeast
+Market Place West
+Market Place and Wilbur
+Marketview & Anthony
+Marketview at Marketview Center
+Marketview at Sams
+Mattis & Alton
+Mattis & Anita
+Mattis & Bloomington
+Mattis & Branch
+Mattis & Broadmoor
+Mattis & Chevy Chase
+Mattis & Cypress
+Mattis & Devonshire
+Mattis & Gentry Square South
+Mattis & Glenn Park
+Mattis & Green
+Mattis & Harbor Point
+Mattis & Healey
+Mattis & Henry
+Mattis & Interstate
+Mattis & Ivy Ct. North
+Mattis & Ivy Ct. South
+Mattis & Meadow
+Mattis & Princeton
+Mattis & Round Barn
+Mattis & Sangamon
+Mattis & Sheridan
+Mattis & Southwood
+Mattis & Stonegate
+Mattis & Sumac
+Mattis & William
+Mattis & Windsor
+Mattis North Apartments
+Mattis at Post Office
+Mayfair & Broadmoor
+Mayfair & Georgetown
+Mayfair & Lincolnshire
+Mayfair & Old Farm
+Mayfair & Sandpiper
+Mayfair & Theodore
+Mayfair & Weathervane
+Maynard & Coventry
+McHenry & Anderson
+McHenry & Combes
+McHenry & Cottage Grove
+McHenry & Fletcher
+McHenry & Lynn
+McHenry & Lynn - East
+McHenry & Lynn St. #2
+McHenry & Lynn St. 1
+McHenry & Philo
+McHenry & Pond
+McHenry & Vawter
+McKinley & Beardsley
+McKinley & Eureka
+McKinley & Harvard
+McKinley & Maple
+McKinley & Tremont
+Meadowbrook Park
+Meijer Dr. at Meijer
+Meijer Drive & Prospect
+Mercury & Apollo
+Mercury & Gemini
+Mercury at FedEx
+Michigan & Green Ridge
+Michigan & Kinch
+Michigan & Smith
+Mkt Plc North Ent. & Market
+Moraine & Lake Shore
+Mullikin & Copper Ridge
+Mullikin & Crossgate
+Mullikin & Curtis Meadow
+Mullikin & Doverbrook
+Mullikin & Graves Ct.
+Mullikin & Ironwood
+Mullikin & Remington Way
+Mullikin & Stonebridge
+Mullikin & Trostshire
+Mullikin & Villa
+Mullikin & Westborough
+Myra Ridge & Autumn Ridge
+Myra Ridge & Ridge Park
+Myra Ridge & Silver Hill
+Myra Ridge & Trails
+Napleton & Anthony
+Neil & Anthony
+Neil & Arcadia
+Neil & Beardsley
+Neil & Bellefontaine
+Neil & Burwash
+Neil & Center
+Neil & Center Dr.
+Neil & Columbia
+Neil & Edgebrook
+Neil & Eureka
+Neil & Garwood
+Neil & Healey
+Neil & Hessel
+Neil & Hill
+Neil & Interstate
+Neil & Kenyon
+Neil & Marketview
+Neil & Marshall
+Neil & North
+Neil & Springfield
+Neil & Stadium
+Neil & Town Center Apt.
+Neil & Twins
+Neil & Vine
+Neil & Walingford
+Neil & Washington
+Neil & White
+Nevada & Gregory Pl.
+Nevada & Lincoln
+Newport & Landis Farm
+Newport & Milford
+Newton & Leggett
+Newton & Newmark
+Newton & Nobel
+Newton & Research
+Northwood & George
+Oak & Anthony
+Oak & Gerty
+Oak & Kenyon
+Oak St.
+One Illinois North
+One Illinois South
+Orchard Downs Mid-North
+Orchard Downs Mid-South
+Orchard Downs North Shelter
+Orchard Downs South Shelter
+PAR
+Park & Central
+Park & Mathews
+Park & McCullough
+Park & Romine
+Park & Wright
+Park Lane & Bedford
+Park Lane & Stanford
+Parkland College
+Parkland Ct. & Bradley
+Parkview
+Paula & Cynthia
+Paula & Garden Hills
+Paula & Honeysuckle
+Paula & Jeanne
+Paula & Joanne
+Paula & Kirk Ln.
+Paula & Larkspur
+Paula & Mattis
+Paula & McKinley
+Paula & Melanie
+Paula & Powers
+Pebblebrook & Bluegrass
+Pebblebrook & Rockdale
+Penn & Anderson
+Penn & Broadway
+Penn & Busey
+Penn & Carle
+Penn & Dorner
+Penn & Goodwin
+Penn & Kinch
+Penn & Maryland
+Penn & Orchard
+Penn & Vine
+Penn & Wiley
+Pennsylvania & Fourth
+Pennsylvania & Race
+Pennsylvania & Sixth
+Pennsylvania Ct.
+Pennsylvania at Law Building
+Pennsylvania at PAR
+Peppermill & Pebblebrook
+Perkins & Carroll
+Perkins & Cherokee
+Perkins & Cooks Ln.
+Perkins & Eastern
+Perkins & Highcross
+Perkins & Ivanhoe
+Perkins & Raintree
+Perkins & Richard
+Philo & Briarcliff
+Philo & Colorado
+Philo & Fairlawn
+Philo & Harding
+Philo & Laurel
+Philo & Michigan
+Philo & Mumford
+Philo & Pennsylvania
+Philo & Scovill
+Philo & Silver
+Philo & Windsor
+Pinecrest & Porterfield
+Pinecrest & Staley
+Plant Sciences Lab
+Plastipak
+Pomona & Bradley
+Pomona & Deske Ct.
+Pomona & Ed Hoffman
+Pomona & Heritage
+Pomona & Santa Ana
+Prospect & Ayrshire
+Prospect & Ayrshire Cir.
+Prospect & Beardsley
+Prospect & Broadmoor
+Prospect & Columbia
+Prospect & Dennison
+Prospect & Devonshire
+Prospect & Eureka
+Prospect & Floral Park
+Prospect & Francis
+Prospect & Galen
+Prospect & Green
+Prospect & Harvard
+Prospect & Healey
+Prospect & Hill
+Prospect & Interstate
+Prospect & John
+Prospect & Kent
+Prospect & Kirby
+Prospect & Lincolnshire
+Prospect & Maple
+Prospect & Marketview
+Prospect & Park Ln.
+Prospect & Pioneer
+Prospect & Sherwood Tr.
+Prospect & Tremont
+Prospect & Ventura
+Prospect & Vine
+Prospect & Washington
+Prospect at Meijer
+Public Health District
+Queensway
+Queensway & Roland
+Race & California
+Race & Delaware
+Race & High St.
+Race & Holmes
+Race & Illinois
+Race & Indiana
+Race & Iowa
+Race & Main
+Race & McHenry
+Race & Meadow
+Race & Michigan
+Race & Montclair
+Race & Mumford
+Race & Nevada
+Race & Oregon
+Race & Sherwin
+Race & Vermont
+Race & Washington #1
+Race & Washington #2
+Race & Whitehall Ct.
+Race & Windsor
+Race at Stone Creek Church
+Randolph & Avondale
+Randolph & Beardsley
+Randolph & Bradley
+Randolph & Charles
+Randolph & Clark
+Randolph & Columbia
+Randolph & Ells
+Randolph & Eureka
+Randolph & Healey
+Randolph & Hill
+Randolph & John
+Randolph & Maple
+Randolph & Springfield
+Randolph & Stanage
+Randolph & Tremont
+Randolph & University
+Randolph & Vine
+Randolph & Washington
+Randolph & White
+Randolph & William
+Research at Hobbico
+Restoration Urban Ministries
+Roland & Aztec
+Roland & Comanche
+Roland & Dobbins
+Roland & Walters
+Rolling Acres & Marjorie
+Romine & Beardsley
+Romine & Bradley
+Romine & Eads
+Romine & Ellis
+Romine & Eureka
+Romine & Tremont
+Round Barn & Country Fair Dr.
+Round Barn Manor
+Save A Lot
+Savoy Walmart
+Scottswood & Calif. Ct.
+Scottswood & Illinois
+Scottswood & Nevada
+Scottswood & Oregon
+Second & Church
+Second & Hill
+Second & Park
+Sherwin & Persimmon
+Sherwin & Pond Ridge
+Sherwin & Sherwin Cir 2
+Sherwin & Sherwin Cir.
+Sherwin & Yankee Ridge
+Silver & Cottage Grove
+Silver & Fletcher
+Silver & Vawter
+Sixth & Armory
+Sixth & Bradley
+Sixth & Chalmers
+Sixth & Gregory
+Sixth & Peabody
+Skyline & Newport
+Slayback & Carrie
+Slayback & Dodson West
+Slayback & Ira
+Slayback & McGee
+Slayback & Smith
+Smith & Carrie
+Smith & Rainbowview
+Smith & U.S. 150
+Social Security
+Springer & Country Fair Dr.
+Springfield & Birch
+Springfield & Busey
+Springfield & Chicago
+Springfield & Country Fair Dr.
+Springfield & Draper
+Springfield & Duncan
+Springfield & Edwin
+Springfield & Elm
+Springfield & Fair
+Springfield & Fieldstone
+Springfield & Garfield
+Springfield & Gregory St.
+Springfield & Harvey
+Springfield & Highland
+Springfield & James
+Springfield & Kenwood
+Springfield & Lynn
+Springfield & Mattis
+Springfield & McKinley
+Springfield & New
+Springfield & Pine
+Springfield & Prairie
+Springfield & Prospect
+Springfield & Ridgeway
+Springfield & Royal Ct.
+Springfield & Russell
+Springfield & Staley
+Springfield & VanDoren
+Springfield & Westlawn
+Springfield & Willis
+Springfield at Country Fair
+Springfield at Phillips Rec. Ctr
+Springhill & Glenhill
+St. Mary's & Griffith
+St. Mary's & Neil
+St. Mary's & Oak
+St. Mathews
+Stadium & Oak
+Staley & Amherst
+Staley & Clubhouse
+Staley & Colleen
+Staley & Copper Ridge
+Staley & Inverness
+Staley & Kearns
+Staley & Kirby
+Staley & Turnberry
+State & Avondale
+State & Beardsley
+State & Birch
+State & Buena Vista
+State & Cedar
+State & Charles
+State & Clark
+State & Columbia
+State & Ells
+State & Eureka
+State & Healey
+State & Hessel
+State & Hill
+State & John
+State & Maple
+State & Park
+State & Springfield
+State & Stanage
+State & Trade Center Dr.
+State & Tremont
+State & University
+State & Vine
+State & Washington
+State & White
+State & William
+Steer Place
+Stephens Family YMCA
+Stone Creek & Bohn
+Stone Creek & Stillwater Landing
+Stone Creek & Venturi
+Summersage & Switchgrass
+Sunnycrest
+Sunnycrest Mall
+Susan Stone & Galena
+Susan Stone & Jane Ann Ct.
+Susan Stone & Jane Lee Ct.
+Susan Stone & Moss
+Susan Stone & Myra Ridge
+Susan Stone & Plains Ct.
+Susan Stone & Summit
+Sussex & Oakmont
+Sussex & Southfield
+Sussex & Waterford
+Sussex & Windward
+Switchgrass & Trailway
+Switchgrass & Wildflower
+Tatman Ct. & Highcross
+The Place at 117
+Third & Daniel
+Thompson Park
+Timbergate & Cherry Hills
+Toalson & Interstate
+Town & Country Apts.
+Town Center & Menards
+Town Center & Moreland
+Town Center & Neil
+Town Center & Prospect
+Town Center at Meijer
+Town Center at Target
+Trails & Baronry
+Trails & Chatham
+Trails & Fawn Hill
+Trails & Philo
+Transit Plaza
+U of I Credit Union
+U.S. 150 & Dale
+U.S. 150 & Dodson
+U.S. 150 & University
+University & Ash
+University & Central
+University & Cottage Grove
+University & Draper
+University & Elm
+University & Fair
+University & Fourth
+University & Goodwin
+University & Harvey
+University & Hickory
+University & James
+University & Lake
+University & Lierman
+University & Lynn
+University & Maple
+University & Mattis
+University & McCullough
+University & McKinley
+University & Neil
+University & New
+University & Prairie
+University & Prospect
+University & Race
+University & Randolph
+University & Russell
+University & Sabin
+University & Second
+University & Sixth
+University & Sycamore
+University & Victor
+University & Vine
+University & Willis
+University & Wright
+University at MTD
+Urbana High School
+Urbana Meijer
+Urbana Middle School
+Urbana Walmart
+Valerie & Alpine
+Valerie & Meaghan
+Vance & Napleton
+Vermont & Kinch
+Vet-Med
+Viking North
+Viking South
+Vine & Brookens
+Vine & Burkwood Ct.
+Vine & California
+Vine & Colorado
+Vine & Elm
+Vine & Evergreen Ct.
+Vine & Fairlawn
+Vine & George Huff
+Vine & Green
+Vine & Harris
+Vine & Holmes
+Vine & Illinois
+Vine & Lynn
+Vine & McHenry
+Vine & McKinley
+Vine & Michigan
+Vine & Montclair
+Vine & Mumford
+Vine & Nevada
+Vine & Oregon
+Vine & Pell Cir.
+Vine & Prairie
+Vine & Scovill
+Vine & Shurts
+Vine & Sunnycrest
+Vine & Washington
+Vine & Water
+Vine & Willis
+Walnut & Columbia
+Walnut & Logan
+Walnut & University
+Walnut & Washington
+Ward & Kerr
+Washington & Ash
+Washington & Broadway
+Washington & Country Squire
+Washington & Fourth
+Washington & Hickory
+Washington & Kinch
+Washington & Lanore
+Washington & Lierman
+Washington & MacArthur
+Washington & Phillips
+Washington & Rainbow View
+Washington & Scottswood
+Washington & Second
+Washington & Smith
+Washington & Third
+Washington & Timothy Tr.
+Washington School
+Water Survey
+Wedgewood & Timbergate
+Wendover & Country Bend
+Wendover & Pebble Creek
+Wendover & Summerview
+Wendover & Woodspring
+Westfield & Alton
+Westfield & Carrelton
+Westfield & Lawndale
+Westfield & Sangamon
+Westfield & Sheridan
+Westfield & William
+Westgate Apts.
+White & First
+White & Fourth
+White & Second
+White & Sixth
+White & Wright
+Wildflower & Chickory
+Wildflower & Trailway
+William & Bellepark
+William & Centennial
+William & Dogwood
+William & Duncan
+William & Goldenview
+William & Kenwood
+William & Maplepark
+William & Oakcrest
+William & Stratford
+Williamsburg
+Williamsburg & Garden Hills
+Williamsburg & Mattis
+Williamsburg & Summerlin
+Williamsburg & Summit Ridge
+Williamsburg & Thornton
+Williamsburg & Winston
+Willow & Baker
+Willow & Beason
+Willow & Kenyon
+Winchester & Aspen
+Winchester & Barberry
+Winchester & Belmore
+Winchester & Blackthorn
+Winchester & Branch
+Winchester & Broadmoor
+Winchester & Brookhaven
+Winchester & Cypress
+Winchester & Glenoak
+Winchester & Southmoor
+Winchester & Sumac
+Winchester & Tamarack
+Windsor & Bel Air
+Windsor & Boulder
+Windsor & Brookshire
+Windsor & Carlisle
+Windsor & Cherry Hills
+Windsor & Crossing Ct.
+Windsor & Donnybrook
+Windsor & Duncan
+Windsor & Fields South
+Windsor & Imperial
+Windsor & Jordan
+Windsor & Lakewood
+Windsor & Lynn
+Windsor & Melrose
+Windsor & Monterey
+Windsor & Morrissey Park
+Windsor & Mullikin
+Windsor & Myra Ridge
+Windsor & Phinney
+Windsor & Prospect
+Windsor & Scottsdale
+Windsor & Staley
+Windsor & Stillwater
+Windsor & Susan Stone
+Windsor & Valleybrook
+Windsor & Village Green
+Windsor & Vine
+Windsor & Willowbrook
+Windsor & Winchester
+Windsor & Windward
+Windsor Rd.
+Windsor West Apts
+Windward & Autumnwood
+Windward & Countryside
+Windward & Waterford
+Windward Point
+Winfield Village Lot B
+Winfield Village Lot G
+Winfield Village Lot M
+Woodfield & Arbor Town
+Woodfield & Curtis
+Wright & Beech
+Wright & Beslin
+Wright & Chalmers
+Wright & Church
+Wright & Columbia
+Wright & Dublin
+Wright & Healey
+Wright & Hill
+Wright & Springfield
+Wright & Stoughton
+Wright & Washington
