@@ -93,10 +93,11 @@ def handle_named_departure(intent, session):
     session_attributes = {}
     should_end_session = True
 
-    if 'Stop' in intent['slots']:
-        speech_output = "Named Stop data goes here"
-    else:
-        speech_output = "I wasn't able to find that."
+    try:
+        data = GetNamedStopDepartures(int(intent['slots']['Route']['value']), intent['slots']['Stop']['value'])
+        speech_output = "The {bus} is expected at {stop} in {time} minutes".format(bus=data[0]['headsign'], stop=intent['slots']['Stop']['value'], time=data[0]['expected_mins'])
+    except:
+        speech_output = "I couldn't find any buses scheduled for this stop."
     return build_response(session_attributes, build_speechlet_response(
         card_title, speech_output, None, should_end_session))
 
@@ -104,10 +105,14 @@ def handle_stop_departures(intent, session):
     session_attributes = {}
     should_end_session = True
 
-    if 'Stop' in intent['slots']:
-        speech_output = "Stop data goes here"
-    else:
-        speech_output = "I wasn't able to find any departures from that stop."
+    try:
+        data = GetStopDepartures(intent['slots']['Stop']['value'])
+        if(len(data) > 1):
+            speech_output = "At {stop}, ".format(stop=intent['slots']['Stop']['value']) + "".join("the {bus} is expected in {time} minutes, ".format(bus=departure['headsign'], time=departure['expected_mins']) for departure in data)
+        else:
+            speech_output = "The {bus} is expected at {stop} in {time} minutes".format(bus=data[0]['headsign'], stop=intent['slots']['Stop']['value'], time=data[0]['expected_mins'])
+    except:
+        speech_output = "I couldn't find any buses scheduled for this stop."
 
     # Setting reprompt_text to None signifies that we do not want to reprompt
     # the user. If the user does not respond or says something that is not

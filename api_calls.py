@@ -1,12 +1,18 @@
 import requests, json
-from stops import stops
+from stops import stops_m
+stops = {}
+for stop in stops_m:
+    try:
+        stops[stop.lower()] = stops_m[stop]
+    except KeyError:
+        pass
 
 # Don't commit API keys, I know. This one is a heavily rate-limited development
 # key. Quit judging me.
 base_url = "https://developer.cumtd.com/api/v2.2/json/{method}?key=f87fa15a173b409aa117f7b5bd539c27"
 
 def get_stop_data(stop):
-    payload = {"stop_id": stops[stop.lower()]}
+    payload = {"stop_id": stops[stop.lower().replace("the ","")]}
     r = requests.get(base_url.format(method="GetDeparturesByStop"), params=payload)
     return json.loads(r.text)
 
